@@ -1,223 +1,237 @@
 <?xml version="1.0"?>
-<response method="getcabingrades" sessionkey="1636907F-370Eq47EA-AD5E-64E7926C95D9" success="Y">
+<response method="getcabingrades" sessionkey="0BADA897-84C0s4DD6-995F-29D27E007CC4" success="Y">
   <errors>
   </errors>
   <request>
     <auth password="pr38ns48" username="hackathon" />
-    <method action="getcabingrades" resultno="302_38.0" sessionkey="1636907F-370Eq47EA-AD5E-64E7926C95D9" />
+    <method action="getcabingrades" resultno="302_1.0" sessionkey="0BADA897-84C0s4DD6-995F-29D27E007CC4" />
   </request>
   <results>
     <grades>
-      <grade cabincode="L" cabingrade="L" cabinid="989" description="Interior (mid-ship)" docabinsrequest="0" gradeno="201:18" iata="CO" language="" norules="0" ownerid="system" resultno="201_18.0" sitename="">
-        <cabintype cabincode="L" cabincode2="" cabintype="inside" caption="" colourcode="EEBBCC" deckid="243" description="Two twin beds (can convert into queen-size), sitting area with sofa, vanity area, and a private bathroom. " id="989" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424339801.jpg" isdefault="N" name="Interior (mid-ship)" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424339801.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+      <grade cabincode="PR" cabingrade="PR" cabinid="5163" description="Promenade (Inside)" docabinsrequest="0" gradeno="201:25" iata="CO" language="" norules="0" ownerid="system" resultno="201_25.0" sitename="">
+        <cabintype cabincode="PR" cabincode2="" cabintype="inside" caption="" colourcode="398497" deckid="1179" description="A view of the Royal Promenade with bowed windows, two twin beds (can convert into queen-size) and private bathroom. " id="5163" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424269216.jpg" isdefault="N" name="Promenade (Inside)" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424269216.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>middle</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="FO" cabingrade="FO" cabinid="14211" description="Family Oceanview Stateroom" docabinsrequest="0" gradeno="201:12" iata="CO" language="" norules="0" ownerid="system" resultno="201_12.0" sitename="">
+        <cabintype cabincode="FO" cabincode2="" cabintype="outside" caption="" colourcode="469FB1" deckid="1175" description="Two twin beds (can convert into queen-size), sofa and/or Pullman beds, sitting area and private bathroom. " id="14211" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424268925.jpg" isdefault="N" name="Family Oceanview Stateroom" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424268925.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
           <position>forward</position>
-          <position>middle</position>
         </cabintype>
         <prices price="" />
       </grade>
-      <grade cabincode="FS" cabingrade="FS" cabinid="23250" description="Two Bedroom Family Suite" docabinsrequest="0" gradeno="201:11" iata="CO" language="" norules="0" ownerid="system" resultno="201_11.0" sitename="">
-        <cabintype cabincode="FS" cabincode2="" cabintype="suite" caption="" colourcode="" deckid="244" description="Two twin beds that convert to a Royal King size bed, two bathrooms (master one with bathtub), living area with double sofa bed, private balcony and concierge service." id="23250" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424332758.jpg" isdefault="N" name="Two Bedroom Family Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424332758.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="AX" cabingrade="AX" cabinid="12302" description="Accessible Balcony" docabinsrequest="0" gradeno="201:1" iata="CO" language="" norules="0" ownerid="system" resultno="201_1.0" sitename="">
-        <cabintype cabincode="AX" cabincode2="" cabintype="balcony" caption="" colourcode="ECBCD7" deckid="241" description="Two twin beds (can convert into queen-size) with open bed frames, automatic wider entry door, turning spaces, private balcony, sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, fold-down shower bench, hand-held shower head, raised toilet, and a lowered sink. " id="12302" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1332925349.jpg" isdefault="N" name="Accessible Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1332925349.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="RS" cabingrade="RS" cabinid="975" description="Royal Suite" docabinsrequest="0" gradeno="201:25" iata="CO" language="" norules="0" ownerid="system" resultno="201_25.0" sitename="">
-        <cabintype cabincode="RS" cabincode2="" cabintype="suite" caption="" colourcode="EE3366" deckid="244" description="Separate bedroom with king-size bed, private balcony, whirlpool bathtub, living room with queen-size sofa bed, baby grand piano, and concierge service." id="975" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424319111.jpg" isdefault="N" name="Royal Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424319111.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="2018-04-04">
-          <position>middle</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="SI" cabingrade="SI" cabinid="23251" description="Studio Interior Stateroom" docabinsrequest="0" gradeno="201:26" iata="CO" language="" norules="0" ownerid="system" resultno="201_26.0" sitename="">
-        <cabintype cabincode="SI" cabincode2="" cabintype="inside" caption="" colourcode="" deckid="238" description="Studio Interior Stateroom" id="23251" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424332774.jpg" isdefault="N" name="Studio Interior Stateroom" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424332774.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="M" cabingrade="M" cabinid="990" description="Interior" docabinsrequest="0" gradeno="201:19" iata="CO" language="" norules="0" ownerid="system" resultno="201_19.0" sitename="">
-        <cabintype cabincode="M" cabincode2="" cabintype="inside" caption="" colourcode="FFEE55" deckid="241" description="Two twin beds (can convert into queen-size), sitting area with sofa, vanity area, and a private bathroom. " id="990" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424339791.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424339791.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>forward</position>
-          <position>middle</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="O" cabingrade="O" cabinid="12304" description="Interior " docabinsrequest="0" gradeno="201:21" iata="CO" language="" norules="0" ownerid="system" resultno="201_21.0" sitename="">
-        <cabintype cabincode="O" cabincode2="" cabintype="inside" caption="" colourcode="" description="Two twin beds (can convert into queen-size), sitting area with sofa, vanity area and a private bathroom. " id="12304" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424339751.jpg" isdefault="N" name="Interior " ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424339751.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="TS" cabingrade="TS" cabinid="9710" description="Two Bedroom Suite with Balcony" docabinsrequest="0" gradeno="201:27" iata="CO" language="" norules="0" ownerid="system" resultno="201_27.0" sitename="">
-        <cabintype cabincode="TS" cabincode2="" cabintype="suite" caption="" colourcode="175BAC" deckid="243" description="Two bedrooms with twin beds that convert to queen-size beds (one room with third and fourth Pullman beds), two bathrooms (one with shower, one with bathtub), living area with double sofa bed, private balcony, and concierge service. 
-" id="9710" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424319196.jpg" isdefault="N" name="Two Bedroom Suite with Balcony" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424319196.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>rear</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="JS" cabingrade="JS" cabinid="979" description="Junior Suite" docabinsrequest="0" gradeno="201:16" iata="CO" language="" norules="0" ownerid="system" resultno="201_16.0" sitename="">
-        <cabintype cabincode="JS" cabincode2="" cabintype="suite" caption="" colourcode="0099AA" deckid="244" description="Two twin beds (can convert into queen-size), private balcony, private bathroom with bathtub and a sitting area with sofa bed.
-" id="979" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319325.jpg" isdefault="N" name="Junior Suite" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319325.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="N" cabingrade="N" cabinid="991" description="Interior" docabinsrequest="0" gradeno="201:20" iata="CO" language="" norules="0" ownerid="system" resultno="201_20.0" sitename="">
-        <cabintype cabincode="N" cabincode2="" cabintype="inside" caption="" colourcode="88BBDD" deckid="237" description="Two twin beds (can convert into queen-size), sitting area with sofa, vanity area, and a private bathroom. " id="991" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319899.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319899.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+      <grade cabincode="I" cabingrade="I" cabinid="5152" description="Ocean View Stateroom" docabinsrequest="0" gradeno="201:18" iata="CO" language="" norules="0" ownerid="system" resultno="201_18.0" sitename="">
+        <cabintype cabincode="I" cabincode2="" cabintype="outside" caption="Ocean View Stateroom (I)" colourcode="EEAA22" deckid="1175" description="Two twin beds (can convert into queen-size) and private bathroom. " id="5152" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090585.jpg" isdefault="N" name="Ocean View Stateroom" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090585.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
           <position>forward</position>
           <position>middle</position>
           <position>rear</position>
         </cabintype>
         <prices price="" />
       </grade>
-      <grade cabincode="Y" cabingrade="Y" cabinid="5378" description="Ocean View - Guaranteed" docabinsrequest="0" gradeno="201:31" iata="CO" language="" norules="0" ownerid="system" resultno="201_31.0" sitename="">
-        <cabintype cabincode="Y" cabincode2="" cabintype="outside" caption="Ocean View Stateroom - Guaranteed (Y)" colourcode="" description="Spend the day exploring the world, then come back to your room and don't miss a thing. Take in the spectacular sights and enjoy the beautiful ocean view from the window in your stateroom
-
-Note that this is a guaranteed category and no particular stateroom number will be assigned until passengers are on board." id="5378" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1181294259.jpg" isdefault="N" name="Ocean View - Guaranteed" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1181294259.jpg" sortweight="30" supercedes="" validfrom="" validto="" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="G" cabingrade="G" cabinid="986" description="Large Outside Oceanview" docabinsrequest="0" gradeno="201:12" iata="CO" language="" norules="0" ownerid="system" resultno="201_12.0" sitename="">
-        <cabintype cabincode="G" cabincode2="" cabintype="outside" caption="" colourcode="CCCC33" deckid="236" description="Two twin beds (can convert into queen-size) and a private bathroom. 
-
-Please note: Ocean View Staterooms on Deck 2 have a porthole instead of a window.
-" id="986" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319721.jpg" isdefault="N" name="Large Outside Oceanview" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319721.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>middle</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="GS" cabingrade="GS" cabinid="978" description="Grand Suite" docabinsrequest="0" gradeno="201:13" iata="CO" language="" norules="0" ownerid="system" resultno="201_13.0" sitename="">
-        <cabintype cabincode="GS" cabincode2="" cabintype="suite" caption="" colourcode="CFA61C" deckid="244" description="Two twin beds (can convert into queen-size), private balcony, sitting area (some with sofa bed), and concierge service. Also referred to as Grand Ocean View Suite." id="978" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424319293.jpg" isdefault="N" name="Grand Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424319293.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="2018-04-04">
-          <position>middle</position>
-          <position>rear</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="AY" cabingrade="AY" cabinid="12307" description="Accessible Oceanview" docabinsrequest="0" gradeno="201:2" iata="CO" language="" norules="0" ownerid="system" resultno="201_2.0" sitename="">
-        <cabintype cabincode="AY" cabincode2="" cabintype="outside" caption="" colourcode="724576" deckid="238" description="Two twin beds (can convert into queen-size) with open bed frames, automatic wider entry door, turning spaces , sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, folddown shower bench, hand-held shower head, raised toilet, and a lowered sink. " id="12307" isdefault="N" name="Accessible Oceanview" ownerid="system" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="AZ" cabingrade="AZ" cabinid="12303" description="Accessible Inside" docabinsrequest="0" gradeno="201:3" iata="CO" language="" norules="0" ownerid="system" resultno="201_3.0" sitename="">
-        <cabintype cabincode="AZ" cabincode2="" cabintype="inside" caption="" colourcode="FDD49F" deckid="237" description="Two twin beds (can convert into queen-size) with open bed frames, automatic wider entry door, turning spaces, sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, folddown shower bench, hand-held shower head, raised toilet, and a lowered sink. " id="12303" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1332925359.jpg" isdefault="N" name="Accessible Inside" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1332925359.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="AW" cabingrade="AW" cabinid="12299" description="Accessible Suite" docabinsrequest="0" gradeno="201:0" iata="CO" language="" norules="0" ownerid="system" resultno="201_0.0" sitename="">
-        <cabintype cabincode="AW" cabincode2="" cabintype="suite" caption="" colourcode="ADA59A" deckid="244" description="Two twin beds (can convert into queen-size) with open bed frames, automatic wider entry door, turning spaces, private balcony, sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, fold-down shower bench, hand-held shower head, raised toilet, and a lowered sink." id="12299" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1332925340.jpg" isdefault="N" name="Accessible Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1332925340.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="E1" cabingrade="E1" cabinid="981" description="Large Outside Stateroom with Private Balcony" docabinsrequest="0" gradeno="201:6" iata="CO" language="" norules="0" ownerid="system" resultno="201_6.0" sitename="">
-        <cabintype cabincode="E1" cabincode2="" cabintype="balcony" caption="" colourcode="779966" deckid="243" description="Two twin beds (can convert into queen-size), private balcony, sitting area, and a private bathroom.....
-" id="981" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319555.jpg" isdefault="N" name="Large Outside Stateroom with Private Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319555.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>forward</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="E3" cabingrade="E3" cabinid="983" description="Large Outside Stateroom with Private Balcony" docabinsrequest="0" gradeno="201:8" iata="CO" language="" norules="0" ownerid="system" resultno="201_8.0" sitename="">
-        <cabintype cabincode="E3" cabincode2="" cabintype="balcony" caption="" colourcode="8899BB" deckid="241" description="Two twin beds (can convert into queen-size), private balcony, sitting area, and a private bathroom. 
-" id="983" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319500.jpg" isdefault="N" name="Large Outside Stateroom with Private Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319500.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+      <grade cabincode="M" cabingrade="M" cabinid="5160" description="Interior" docabinsrequest="0" gradeno="201:22" iata="CO" language="" norules="0" ownerid="system" resultno="201_22.0" sitename="">
+        <cabintype cabincode="M" cabincode2="" cabintype="inside" caption="" colourcode="FFEE55" deckid="1181" description="Two twin beds (can convert into queen-size) and private bathroom. " id="5160" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424338854.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424338854.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
           <position>forward</position>
           <position>middle</position>
+          <position>rear</position>
         </cabintype>
         <prices price="" />
       </grade>
-      <grade cabincode="Z" cabingrade="Z" cabinid="5379" description="Interior Stateroom - Guaranteed" docabinsrequest="0" gradeno="201:32" iata="CO" language="" norules="0" ownerid="system" resultno="201_32.0" sitename="">
-        <cabintype cabincode="Z" cabincode2="" cabintype="inside" caption="Interior Stateroom - Guaranteed (Z)" colourcode="" description="This standard stateroom offers two twin beds, a private bathroom and all the amenities of our standard staterooms.
-
-Note that this is a guaranteed category and no particular stateroom number will be assigned until passengers are on board or just before." id="5379" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1317020295.jpg" isdefault="N" name="Interior Stateroom - Guaranteed" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1317020295.jpg" sortweight="10" supercedes="" validfrom="" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="FO" cabingrade="FO" cabinid="984" description="Family Oceanview" docabinsrequest="0" gradeno="201:10" iata="CO" language="" norules="0" ownerid="system" resultno="201_10.0" sitename="">
-        <cabintype cabincode="FO" cabincode2="" cabintype="outside" caption="" colourcode="52A5B6" deckid="241" description="Two twin beds (can convert into queen-size), additional bunk beds in separate area, separate sitting area with sofa bed, and private bathroom with shower ." id="984" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319610.jpg" isdefault="N" name="Family Oceanview" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319610.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="R" cabingrade="R" cabinid="13705" description="Royal Suite" docabinsrequest="0" gradeno="201:24" iata="CO" language="" norules="0" ownerid="system" resultno="201_24.0" sitename="">
-        <cabintype cabincode="R" cabincode2="" cabintype="suite" caption="" colourcode="" description="Separate bedroom with king-size bed, private balcony, whirlpool bathtub, living room with queen-size sofa bed, baby grand piano, and concierge service." id="13705" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1337850991.jpg" isdefault="N" name="Royal Suite" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1337850991.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="OS" cabingrade="OS" cabinid="976" description="Owner's Suite" docabinsrequest="0" gradeno="201:22" iata="CO" language="" norules="0" ownerid="system" resultno="201_22.0" sitename="">
-        <cabintype cabincode="OS" cabincode2="" cabintype="suite" caption="" colourcode="2299CC" deckid="244" description="Queen-size bed, private balcony, private bathroom with whirlpool tub, double sinks, separate shower and bidet, separate living area with queen-size sofa bed, and concierge service. " id="976" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319152.jpg" isdefault="N" name="Owner's Suite" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319152.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="2018-04-04">
+      <grade cabincode="FI" cabingrade="FI" cabinid="14212" description="Family Inside Stateroom" docabinsrequest="0" gradeno="201:11" iata="CO" language="" norules="0" ownerid="system" resultno="201_11.0" sitename="">
+        <cabintype cabincode="FI" cabincode2="" cabintype="inside" caption="" colourcode="E881B0" deckid="1175" description="Two twin beds (can convert into queen-size) and private bathroom. " id="14212" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424269055.jpg" isdefault="N" name="Family Inside Stateroom" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424269055.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
           <position>middle</position>
           <position>rear</position>
         </cabintype>
         <prices price="" />
       </grade>
-      <grade cabincode="K" cabingrade="K" cabinid="9711" description="Interior" docabinsrequest="0" gradeno="201:17" iata="CO" language="" norules="0" ownerid="system" resultno="201_17.0" sitename="">
-        <cabintype cabincode="K" cabincode2="" cabintype="inside" caption="" colourcode="DD8888" deckid="243" description="Two twin beds (can convert into queen-size), sitting area with sofa, vanity area and a private bathroom." id="9711" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424319995.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424319995.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>middle</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="VB" cabingrade="VB" cabinid="25044" description="Interior" docabinsrequest="0" gradeno="201:28" iata="CO" language="" norules="0" ownerid="system" resultno="201_28.0" sitename="">
-        <cabintype cabincode="VB" cabincode2="" cabintype="inside" caption="" colourcode="" description="Interior" id="25044" isdefault="N" name="Interior" ownerid="system" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
-        <prices price="" />
-      </grade>
-      <grade cabincode="D2" cabingrade="D2" cabinid="7812" description="Superior Balcony" docabinsrequest="0" gradeno="201:5" iata="CO" language="" norules="0" ownerid="system" resultno="201_5.0" sitename="">
-        <cabintype cabincode="D2" cabincode2="" cabintype="balcony" caption="Superior Balcony (D2)" colourcode="73B399" deckid="243" description="Two twin beds (can convert into queen-size), private balcony, sitting area with sofa, and a private bathroom. " id="7812" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1291988946.jpg" isdefault="N" name="Superior Balcony" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1291988946.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+      <grade cabincode="H" cabingrade="H" cabinid="5151" description="Ocean View Stateroom" docabinsrequest="0" gradeno="201:17" iata="CO" language="" norules="0" ownerid="system" resultno="201_17.0" sitename="">
+        <cabintype cabincode="H" cabincode2="" cabintype="outside" caption="Ocean View Stateroom (H)" colourcode="EE6655" deckid="1175" description="Two twin beds (can convert into queen-size) and private bathroom. " id="5151" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1292090579.jpg" isdefault="N" name="Ocean View Stateroom" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1292090579.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>forward</position>
           <position>middle</position>
           <position>rear</position>
         </cabintype>
         <prices price="" />
       </grade>
-      <grade cabincode="W" cabingrade="W" cabinid="5380" description="Suite - Guaranteed" docabinsrequest="0" gradeno="201:29" iata="CO" language="" norules="0" ownerid="system" resultno="201_29.0" sitename="">
-        <cabintype cabincode="W" cabincode2="" cabintype="suite" caption="Suite - Guaranteed (W)" colourcode="" description="Suites offer more room, comfort and luxury. Most come with a private balcony and all include standard features. Some suites even include complimentary concierge service, which includes access to a private lounge as well as personalized service to help with making reservations or other arrangements. Suites are a great way to travel in style and give your family more space, while keeping everyone together.
-
-Note that this is a guaranteed category and no particular stateroom number will be assigned until passengers are on board." id="5380" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1181294181.jpg" isdefault="N" name="Suite - Guaranteed" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1181294181.jpg" sortweight="100" supercedes="" validfrom="" validto="" />
+      <grade cabincode="VB" cabingrade="VB" cabinid="25051" description="Interior Stateroom" docabinsrequest="0" gradeno="201:29" iata="CO" language="" norules="0" ownerid="system" resultno="201_29.0" sitename="">
+        <cabintype cabincode="VB" cabincode2="" cabintype="inside" caption="" colourcode="" description="Interior Stateroom" id="25051" isdefault="N" name="Interior Stateroom" ownerid="system" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
         <prices price="" />
       </grade>
-      <grade cabincode="X" cabingrade="X" cabinid="5377" description="Balcony Stateroom - Guaranteed" docabinsrequest="0" gradeno="201:30" iata="CO" language="" norules="0" ownerid="system" resultno="201_30.0" sitename="">
-        <cabintype cabincode="X" cabincode2="" cabintype="balcony" caption="Balcony Stateroom - Guaranteed (X)" colourcode="" description="Balcony Staterooms offer a spectacular view, small sitting area.
+      <grade cabincode="AZ" cabingrade="AZ" cabinid="11629" description="Accessible Inside" docabinsrequest="0" gradeno="201:3" iata="CO" language="" norules="0" ownerid="system" resultno="201_3.0" sitename="">
+        <cabintype cabincode="AZ" cabincode2="" cabintype="inside" caption="" colourcode="FED5A1" deckid="1175" description="Two twin beds (can convert into queen-size) with open bed frames, wider entry door, turning spaces, sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, fold-down shower bench, hand-held shower head, raised toilet, and a lowered sink. Following inside staterooms have a Promenade view: 6315 and 6615." id="11629" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1332935516.jpg" isdefault="N" name="Accessible Inside" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1332935516.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>middle</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="FP" cabingrade="FP" cabinid="9719" description="Promenade Family Stateroom" docabinsrequest="0" gradeno="201:13" iata="CO" language="" norules="0" ownerid="system" resultno="201_13.0" sitename="">
+        <cabintype cabincode="FP" cabincode2="" cabintype="inside" caption="Promenade Family Stateroom (FP)" colourcode="BF80A6" deckid="1180" description="Two twin beds (can convert into queen-size) and private bathroom. " id="9719" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1292090625.jpg" isdefault="N" name="Promenade Family Stateroom" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1292090625.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>middle</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="AW" cabingrade="AW" cabinid="12408" description="Accessible Suite" docabinsrequest="0" gradeno="201:0" iata="CO" language="" norules="0" ownerid="system" resultno="201_0.0" sitename="">
+        <cabintype cabincode="AW" cabincode2="" cabintype="suite" caption="" colourcode="ACA59A" deckid="1172" description="Two twin beds (can convert into queen-size) with open bed frames, wider entry door, turning spaces, private balcony, sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, fold-down shower bench, hand-held shower head, raised toilet, and a lowered sink." id="12408" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1332935492.jpg" isdefault="N" name="Accessible Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1332935492.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
+        <prices price="" />
+      </grade>
+      <grade cabincode="FS" cabingrade="FS" cabinid="5149" description="Royal Family Suite" docabinsrequest="0" gradeno="201:14" iata="CO" language="" norules="0" ownerid="system" resultno="201_14.0" sitename="">
+        <cabintype cabincode="FS" cabincode2="" cabintype="suite" caption="Family Suite (FS)" colourcode="22AA55" deckid="1181" description="Two bedrooms with twin beds that convert to queen-size beds (one room with third and fourth Pullman beds), a private balcony, two bathrooms and living area with double sofa bed. " id="5149" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090289.jpg" isdefault="N" name="Royal Family Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090289.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="JS" cabingrade="JS" cabinid="5157" description="Junior Suite" docabinsrequest="0" gradeno="201:19" iata="CO" language="" norules="0" ownerid="system" resultno="201_19.0" sitename="">
+        <cabintype cabincode="JS" cabincode2="" cabintype="suite" caption="Junior Suites (JS)" colourcode="0099AA" deckid="1180" description="Two twin beds (can convert into queen-size), private balcony, sitting area (some with sofa bed) and private bathroom. " id="5157" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1292090338.jpg" isdefault="N" name="Junior Suite" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1292090338.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="L" cabingrade="L" cabinid="14499" description="Interior" docabinsrequest="0" gradeno="201:21" iata="CO" language="" norules="0" ownerid="system" resultno="201_21.0" sitename="">
+        <cabintype cabincode="L" cabincode2="" cabintype="inside" caption="" colourcode="EEBBCC" deckid="1179" description="Two twin beds (can convert into queen-size) and private bathroom. " id="14499" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424269246.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424269246.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="N" cabingrade="N" cabinid="16351" description="Interior" docabinsrequest="0" gradeno="201:23" iata="CO" language="" norules="0" ownerid="system" resultno="201_23.0" sitename="">
+        <cabintype cabincode="N" cabincode2="" cabintype="inside" caption="" colourcode="88BBDD" deckid="1175" description="Two twin beds (can convert into queen-size) and private bathroom. (150 sq. ft.)" id="16351" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424338857.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424338857.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>middle</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="GS" cabingrade="GS" cabinid="5899" description="Grand Suite" docabinsrequest="0" gradeno="201:16" iata="CO" language="" norules="0" ownerid="system" resultno="201_16.0" sitename="">
+        <cabintype cabincode="GS" cabincode2="" cabintype="suite" caption="Grand Suite (GS)" colourcode="FFCC22" deckid="1172" description="Two twin beds (can convert into queen-size), private balcony, sitting area (some with sofa bed) and private bathroom. " id="5899" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090325.jpg" isdefault="N" name="Grand Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090325.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="2018-05-04">
+          <position>forward</position>
+          <position>middle</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="K" cabingrade="K" cabinid="9011" description="Interior" docabinsrequest="0" gradeno="201:20" iata="CO" language="" norules="0" ownerid="system" resultno="201_20.0" sitename="">
+        <cabintype cabincode="K" cabincode2="" cabintype="inside" caption="" colourcode="DD8888" deckid="1175" description="Two twin beds (can convert into queen-size) andprivate bathroom. " id="9011" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424269223.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424269223.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>middle</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="D1" cabingrade="D1" cabinid="5155" description="Superior Balcony" docabinsrequest="0" gradeno="201:4" iata="CO" language="" norules="0" ownerid="system" resultno="201_4.0" sitename="">
+        <cabintype cabincode="D1" cabincode2="" cabintype="balcony" caption="Superior Balcony (D1)" colourcode="9066CE" deckid="1179" description="Two twin beds (can convert into queen-size), sitting area (some with sofa bed), private balcony and private bathroom. 
+ 
+" id="5155" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090372.jpg" isdefault="N" name="Superior Balcony" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090372.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>forward</position>
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="E2" cabingrade="E2" cabinid="5154" description="Deluxe Balcony" docabinsrequest="0" gradeno="201:8" iata="CO" language="" norules="0" ownerid="system" resultno="201_8.0" sitename="">
+        <cabintype cabincode="E2" cabincode2="" cabintype="balcony" caption="Deluxe Balcony (E2)" colourcode="EA6B80" deckid="1179" description="Two twin beds (can convert into queen-size), sitting area (some with sofa bed), private balcony and private bathroom. 
+ 
+" id="5154" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090434.jpg" isdefault="N" name="Deluxe Balcony" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090434.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>middle</position>
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="X" cabingrade="X" cabinid="5395" description="Balcony Stateroom - Guaranteed" docabinsrequest="0" gradeno="201:31" iata="CO" language="" norules="0" ownerid="system" resultno="201_31.0" sitename="">
+        <cabintype cabincode="X" cabincode2="" cabintype="balcony" caption="Balcony Stateroom - Guaranteed (X)" colourcode="" description="Balcony Staterooms offer a spectacular view, small sitting area, and a private balcony
 
 Note that this is a guaranteed category and no particular stateroom number will be assigned until passengers are on board.
 
-There is a possibility that the cabin may have a restricted view." id="5377" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1317020216.jpg" isdefault="N" name="Balcony Stateroom - Guaranteed" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1317020216.jpg" sortweight="40" supercedes="" validfrom="" validto="" />
+There is a possibility that the cabin may have a restricted view." id="5395" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1317021208.jpg" isdefault="N" name="Balcony Stateroom - Guaranteed" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1317021208.jpg" sortweight="40" supercedes="" validfrom="" validto="" />
         <prices price="" />
       </grade>
-      <grade cabincode="D1" cabingrade="D1" cabinid="980" description="Superior Balcony" docabinsrequest="0" gradeno="201:4" iata="CO" language="" norules="0" ownerid="system" resultno="201_4.0" sitename="">
-        <cabintype cabincode="D1" cabincode2="" cabintype="balcony" caption="Superior Balcony (D1)" colourcode="9066CE" deckid="243" description="Two twin beds (can convert into queen-size), private balcony, sitting area with sofa, and a private bathroom.
-. " id="980" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1291988941.jpg" isdefault="N" name="Superior Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1291988941.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>middle</position>
+      <grade cabincode="Q" cabingrade="Q" cabinid="5156" description="Interior" docabinsrequest="0" gradeno="201:27" iata="CO" language="" norules="0" ownerid="system" resultno="201_27.0" sitename="">
+        <cabintype cabincode="Q" cabincode2="" cabintype="inside" caption="" colourcode="CC6622" deckid="1175" description="Two twin beds (can convert into queen-size) andprivate bathroom. " id="5156" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424338860.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424338860.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
           <position>rear</position>
         </cabintype>
         <prices price="" />
       </grade>
-      <grade cabincode="Q" cabingrade="Q" cabinid="13704" description="Interior" docabinsrequest="0" gradeno="201:23" iata="CO" language="" norules="0" ownerid="system" resultno="201_23.0" sitename="">
-        <cabintype cabincode="Q" cabincode2="" cabintype="inside" caption="" colourcode="CC6622" deckid="236" description="Two twin beds (can convert into queen-size), sitting area with sofa, vanity area and a private bathroom. " id="13704" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424320103.jpg" isdefault="N" name="Interior" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424320103.jpg" sortweight="10" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>middle</position>
-        </cabintype>
+      <grade cabincode="PS" cabingrade="PS" cabinid="14213" description="Presidential Family Suite with Balcony" docabinsrequest="0" gradeno="201:26" iata="CO" language="" norules="0" ownerid="system" resultno="201_26.0" sitename="">
+        <cabintype cabincode="PS" cabincode2="" cabintype="suite" caption="" colourcode="6677FF" deckid="1179" description="Two master bedrooms with baths. Two additional bedrooms, each with two Pullman beds and two twin beds that convert to a queen-size bed. Two additional bathrooms with showers and a spacious living area with a sofa bed and dining table. Private balcony with dining area and lounge chairs. " id="14213" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424268717.jpg" isdefault="N" name="Presidential Family Suite with Balcony" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424268717.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
         <prices price="" />
       </grade>
-      <grade cabincode="F" cabingrade="F" cabinid="985" description="Large Outside Oceanview" docabinsrequest="0" gradeno="201:9" iata="CO" language="" norules="0" ownerid="system" resultno="201_9.0" sitename="">
-        <cabintype cabincode="F" cabincode2="" cabintype="outside" caption="" colourcode="AA9933" deckid="241" description="Two twin beds (can convert into queen-size), sitting area with sofa, vanity area and a private bathroom. 
-" id="985" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424319703.jpg" isdefault="N" name="Large Outside Oceanview" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424319703.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>forward</position>
-        </cabintype>
+      <grade cabincode="E3" cabingrade="E3" cabinid="23077" description="Deluxe Balcony" docabinsrequest="0" gradeno="201:9" iata="CO" language="" norules="0" ownerid="system" resultno="201_9.0" sitename="">
+        <cabintype cabincode="E3" cabincode2="" cabintype="balcony" caption="" colourcode="" description="Two twin beds (can convert into queen-size), sitting area (some with sofa bed), private balcony and private bathroom. 
+ " id="23077" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1421308115.jpg" isdefault="N" name="Deluxe Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1421308115.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
         <prices price="" />
       </grade>
-      <grade cabincode="H" cabingrade="H" cabinid="987" description="Large Outside Oceanview" docabinsrequest="0" gradeno="201:14" iata="CO" language="" norules="0" ownerid="system" resultno="201_14.0" sitename="">
-        <cabintype cabincode="H" cabincode2="" cabintype="outside" caption="" colourcode="EE6655" deckid="237" description="Two twin beds (can convert into queen-size) and a private bathroom. " id="987" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1424319772.jpg" isdefault="N" name="Large Outside Oceanview" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1424319772.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>forward</position>
-          <position>middle</position>
-          <position>rear</position>
-        </cabintype>
+      <grade cabincode="AX" cabingrade="AX" cabinid="12407" description="Accessible Balcony" docabinsrequest="0" gradeno="201:1" iata="CO" language="" norules="0" ownerid="system" resultno="201_1.0" sitename="">
+        <cabintype cabincode="AX" cabincode2="" cabintype="balcony" caption="" colourcode="E3ADB7" description="Two twin beds (can convert into queen-size) with open bed frames, wider entry door, turning spaces, private balcony, sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, fold-down shower bench, hand-held shower head, raised toilet, and a lowered sink. " id="12407" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1332935500.jpg" isdefault="N" name="Accessible Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1332935500.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
         <prices price="" />
       </grade>
-      <grade cabincode="E2" cabingrade="E2" cabinid="982" description="Large Outside Stateroom with Private Balcony" docabinsrequest="0" gradeno="201:7" iata="CO" language="" norules="0" ownerid="system" resultno="201_7.0" sitename="">
-        <cabintype cabincode="E2" cabincode2="" cabintype="balcony" caption="" colourcode="DD1133" deckid="243" description="Two twin beds (can convert into queen-size), private balcony, sitting area, and a private bathroom. 
-" id="982" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424319539.jpg" isdefault="N" name="Large Outside Stateroom with Private Balcony" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424319539.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
-          <position>forward</position>
-        </cabintype>
-        <prices price="" />
-      </grade>
-      <grade cabincode="I" cabingrade="I" cabinid="988" description="Large Outside Oceanview" docabinsrequest="0" gradeno="201:15" iata="CO" language="" norules="0" ownerid="system" resultno="201_15.0" sitename="">
-        <cabintype cabincode="I" cabincode2="" cabintype="outside" caption="" colourcode="EEAA22" deckid="236" description="Two twin beds (can convert into queen-size) and a private bathroom. 
+      <grade cabincode="Y" cabingrade="Y" cabinid="5397" description="Ocean View Stateroom - Guaranteed" docabinsrequest="0" gradeno="201:32" iata="CO" language="" norules="0" ownerid="system" resultno="201_32.0" sitename="">
+        <cabintype cabincode="Y" cabincode2="" cabintype="outside" caption="Ocean View Stateroom - Guaranteed (Y)" colourcode="" description="Spend the day exploring the world, then come back to your room and don't miss a thing. Take in the spectacular sights and enjoy the beautiful ocean view from the window in your stateroom.
 
-Please note: Ocean View Staterooms on Deck 2 have a porthole instead of a window.
-" id="988" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1424319718.jpg" isdefault="N" name="Large Outside Oceanview" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1424319718.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+Note that this is a guaranteed category and no particular stateroom number will be assigned until passengers are on board." id="5397" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1317021267.jpg" isdefault="N" name="Ocean View Stateroom - Guaranteed" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1317021267.jpg" sortweight="30" supercedes="" validfrom="" validto="" />
+        <prices price="" />
+      </grade>
+      <grade cabincode="E1" cabingrade="E1" cabinid="5145" description="Deluxe Balcony" docabinsrequest="0" gradeno="201:7" iata="CO" language="" norules="0" ownerid="system" resultno="201_7.0" sitename="">
+        <cabintype cabincode="E1" cabincode2="" cabintype="balcony" caption="Deluxe Balcony (E1)" colourcode="93AA77" deckid="1179" description="Two twin beds (can convert into queen-size), sitting area (some with sofa bed), private balcony and private bathroom. " id="5145" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1292090425.jpg" isdefault="N" name="Deluxe Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1292090425.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>forward</position>
           <position>middle</position>
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="D2" cabingrade="D2" cabinid="5153" description="Superior Balcony" docabinsrequest="0" gradeno="201:5" iata="CO" language="" norules="0" ownerid="system" resultno="201_5.0" sitename="">
+        <cabintype cabincode="D2" cabincode2="" cabintype="balcony" caption="Superior Balcony (D2)" colourcode="ADD2C3" deckid="1180" description="Two twin beds (can convert into queen-size), sitting area (some with sofa bed), private balcony and private bathroom. " id="5153" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1292090377.jpg" isdefault="N" name="Superior Balcony" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1292090377.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>forward</position>
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="D3" cabingrade="D3" cabinid="5147" description="Superior Balcony" docabinsrequest="0" gradeno="201:6" iata="CO" language="" norules="0" ownerid="system" resultno="201_6.0" sitename="">
+        <cabintype cabincode="D3" cabincode2="" cabintype="balcony" caption="Superior Balcony (D3)" colourcode="B6777A" deckid="1179" description="Two twin beds (can convert into queen-size), sitting area (some with sofa bed), private balcony and private bathroom. 
+" id="5147" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090383.jpg" isdefault="N" name="Superior Balcony" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090383.jpg" sortweight="40" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>forward</position>
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="RS" cabingrade="RS" cabinid="5150" description="Royal Suite" docabinsrequest="0" gradeno="201:28" iata="CO" language="" norules="0" ownerid="system" resultno="201_28.0" sitename="">
+        <cabintype cabincode="RS" cabincode2="" cabintype="suite" caption="Royal Suite (RS)" colourcode="EE3366" deckid="1172" description="Separate bedroom with king-size bed, private balcony, living room with queen-size sofa bed and private bathroom. " id="5150" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090226.jpg" isdefault="N" name="Royal Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090226.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="AY" cabingrade="AY" cabinid="11628" description="Accessible Outside" docabinsrequest="0" gradeno="201:2" iata="CO" language="" norules="0" ownerid="system" resultno="201_2.0" sitename="">
+        <cabintype cabincode="AY" cabincode2="" cabintype="outside" caption="" colourcode="6F4874" deckid="1175" description="Two twin beds (can convert into queen-size) with open bed frames, wider entry door, turning spaces, sitting area with lowered vanity, closet rods, and safe, and a private bathroom with a wider door, roll-in shower, grab bars, fold-down shower bench, hand-held shower head, raised toilet, and a lowered sink. " id="11628" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1332935508.jpg" isdefault="N" name="Accessible Outside" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1332935508.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00" />
+        <prices price="" />
+      </grade>
+      <grade cabincode="Z" cabingrade="Z" cabinid="5399" description="Interior Stateroom - Guaranteed" docabinsrequest="0" gradeno="201:33" iata="CO" language="" norules="0" ownerid="system" resultno="201_33.0" sitename="">
+        <cabintype cabincode="Z" cabincode2="" cabintype="inside" caption="Interior Stateroom - Guaranteed (Z)" colourcode="" description="This standard stateroom offers two twin beds, a private bathroom and all the amenities of our standard staterooms.
+
+Note that this is a guaranteed category and no particular stateroom number will be assigned until passengers are on board or just before." id="5399" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1317021312.jpg" isdefault="N" name="Interior Stateroom - Guaranteed" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1317021312.jpg" sortweight="10" supercedes="" validfrom="" validto="0000-00-00" />
+        <prices price="" />
+      </grade>
+      <grade cabincode="W" cabingrade="W" cabinid="5393" description="Suite - Guaranteed" docabinsrequest="0" gradeno="201:30" iata="CO" language="" norules="0" ownerid="system" resultno="201_30.0" sitename="">
+        <cabintype cabincode="W" cabincode2="" cabintype="suite" caption="Suite - Guaranteed (W)" colourcode="" description="Suites offer more room, comfort and luxury. Most come with a private balcony and all include standard features. Some suites even include complimentary concierge service, which includes access to a private lounge as well as personalized service to help with making reservations or other arrangements. Suites are a great way to travel in style and give your family more space, while keeping everyone together.
+
+Note that this is a guaranteed category and no particular stateroom number will be assigned until passengers are on board." id="5393" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1209546129.jpg" isdefault="N" name="Suite - Guaranteed" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1209546129.jpg" sortweight="100" supercedes="" validfrom="" validto="" />
+        <prices price="" />
+      </grade>
+      <grade cabincode="F" cabingrade="F" cabinid="5146" description="Large Ocean View" docabinsrequest="0" gradeno="201:10" iata="CO" language="" norules="0" ownerid="system" resultno="201_10.0" sitename="">
+        <cabintype cabincode="F" cabincode2="" cabintype="outside" caption="Large Ocean View (F)" colourcode="AA9933" deckid="1179" description="Two twin beds (can convert into queen-size), and private bathroom." id="5146" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090493.jpg" isdefault="N" name="Large Ocean View" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090493.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>forward</position>
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="G" cabingrade="G" cabinid="7815" description="Ocean View Stateroom" docabinsrequest="0" gradeno="201:15" iata="CO" language="" norules="0" ownerid="system" resultno="201_15.0" sitename="">
+        <cabintype cabincode="G" cabincode2="" cabintype="outside" caption="Ocean View Stateroom (G)" colourcode="CCCC33" deckid="1176" description="Two twin beds (can convert into queen-size), and private bathroom." id="7815" imageurl="https://static2.traveltek.net/cruisepics/local_cabinimages/1292090574.jpg" isdefault="N" name="Ocean View Stateroom" ownerid="system" smallimageurl="https://static3.traveltek.net/cruisepics/local_cabinimages_small/1292090574.jpg" sortweight="30" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>forward</position>
+          <position>middle</position>
+          <position>rear</position>
+        </cabintype>
+        <prices price="" />
+      </grade>
+      <grade cabincode="OS" cabingrade="OS" cabinid="5162" description="Owners Suite" docabinsrequest="0" gradeno="201:24" iata="CO" language="" norules="0" ownerid="system" resultno="201_24.0" sitename="">
+        <cabintype cabincode="OS" cabincode2="" cabintype="suite" caption="Owners Suite (OS)" colourcode="2299CC" deckid="1172" description="Queen-size bed, private balcony, private bathroom and a separate living area with a queen-size sofa bed. " id="5162" imageurl="https://static0.traveltek.net/cruisepics/local_cabinimages/1292090273.jpg" isdefault="N" name="Owners Suite" ownerid="system" smallimageurl="https://static1.traveltek.net/cruisepics/local_cabinimages_small/1292090273.jpg" sortweight="100" supercedes="" validfrom="0000-00-00" validto="0000-00-00">
+          <position>middle</position>
+          <position>rear</position>
         </cabintype>
         <prices price="" />
       </grade>
     </grades>
     <itinerary>
-      <item arrivedate="2017-04-08" arrivetime="00:00" day="1" departdate="2017-04-08" departtime="16:00" description="While in Tampa, be sure to stroll through the historic Ybor City, full of restaurants, shops and bars, visit the Busch Gardens theme park or explore the Salvador Dali Museum in St. Petersburg. This metropolis never stands still." idlcrossed="" latitude="27.9814" longitude="-82.4511" name="Tampa, Florida" orderid="1" originalitineraryname="Tampa, Florida" ownerid="system" portid="317" supered_id="2192263" type="port" />
-      <item arrivedate="2017-04-09" arrivetime="11:30" day="2" departdate="2017-04-09" departtime="17:00" description="Catch whiffs of Spain, Cuba and the Bahamas in this cultural potpourri &#8211; not forgetting key lime pie. At the Coral Reef State Park, snorkel or fish-watch by glass-bottomed boat, while at Hemingway&#8217;s house you&#8217;ll see descendants of his 6-toed cats. " idlcrossed="" latitude="24.5551" longitude="-81.78" name="Key West" orderid="2" originalitineraryname="Key West" ownerid="system" portid="149" supered_id="2192264" type="port" />
-      <item arrivedate="2017-04-10" arrivetime="00:00" day="3" departdate="2017-04-10" departtime="00:00" description="An 'at sea' day is your chance to explore all the amazing activities the ship has to offer, including doing nothing at all.  Relax in the Spa, take in a show at the theatre, or experience any of the incredible dining venues.  There's so much to do the difficulty will be choosing what to do next!" idlcrossed="" name="Cruising " orderid="3" originalitineraryname="Cruising " ownerid="system" portid="" supered_id="2192265" type="sailing" />
-      <item arrivedate="2017-04-11" arrivetime="08:00" day="4" departdate="2017-04-11" departtime="18:00" description="The &#8216;Island of Swallows&#8217; is as rich in Mayan culture as in wildlife. Glass-clear waters around coral reefs offer you a world-class encounter with majestic eagle rays and more, while the isle&#8217;s centre is home to hosts of brightly-hued tropical birds." idlcrossed="" latitude="20.423" longitude="-86.9223" name="Cozumel" orderid="4" originalitineraryname="Cozumel" ownerid="system" portid="77" supered_id="2192267" type="port" />
-      <item arrivedate="2017-04-12" arrivetime="00:00" day="5" departdate="2017-04-12" departtime="00:00" description="An 'at sea' day is your chance to explore all the amazing activities the ship has to offer, including doing nothing at all.  Relax in the Spa, take in a show at the theatre, or experience any of the incredible dining venues.  There's so much to do the difficulty will be choosing what to do next!" idlcrossed="" name="Cruising " orderid="5" originalitineraryname="Cruising " ownerid="system" portid="" supered_id="2192268" type="sailing" />
-      <item arrivedate="2017-04-13" arrivetime="07:00" day="6" departdate="2017-04-13" departtime="00:00" description="While in Tampa, be sure to stroll through the historic Ybor City, full of restaurants, shops and bars, visit the Busch Gardens theme park or explore the Salvador Dali Museum in St. Petersburg. This metropolis never stands still." idlcrossed="" latitude="27.9814" longitude="-82.4511" name="Tampa, Florida" orderid="6" originalitineraryname="Tampa, Florida" ownerid="system" portid="317" supered_id="2192270" type="port" />
+      <item arrivedate="2017-04-28" arrivetime="00:00:00" day="1" departdate="2017-04-28" departtime="16:30:00" description="The energetic home-port to great liners like the Queen Mary and ill-fated Titanic lies conveniently close to the bright lights of London, plus historic cities like Winchester and Salisbury. Not forgetting the haunting prehistoric ruins of Stonehenge." extrainfo="Docked" latitude="50.8862" longitude="-1.3957" name="Southampton" portid="295" />
+      <item arrivedate="2017-04-29" arrivetime="07:00:00" day="2" departdate="2017-04-29" departtime="17:00:00" description="Belgian chocolate, amazing seafood, and over 100 types of beer! If that&#8217;s not enough, savour a Gothic gem that&#8217;s untouched over the ages. Take a horse-and-carriage ride through cobbled streets lined by stepped gabled buildings, markets and canals. " extrainfo="Docked" latitude="51.3333" longitude="3.2" name="Bruges" portid="35" />
+      <item arrivedate="2017-04-30" arrivetime="08:00:00" day="3" departdate="2017-04-30" departtime="22:00:00" description="The allure of the &#8216;capital of style&#8217; is legendary. Haute couture combined with haute cuisine. Innumerable museums, just as many famous parks and boulevards. Architectural icons like the Eiffel Tower, Notre Dame or the futuristic Pompidou Centre." extrainfo="Docked" latitude="49.4886" longitude="0.107489" name="Paris (Le Havre)" portid="168" />
+      <item arrivedate="2017-05-01" arrivetime="05:30:00" day="4" departdate="2017-05-01" departtime="" description="The energetic home-port to great liners like the Queen Mary and ill-fated Titanic lies conveniently close to the bright lights of London, plus historic cities like Winchester and Salisbury. Not forgetting the haunting prehistoric ruins of Stonehenge." extrainfo="Docked" latitude="50.8862" longitude="-1.3957" name="Southampton" portid="295" />
     </itinerary>
   </results>
 </response>
