@@ -1,0 +1,1328 @@
+<?xml version="1.0"?>
+<response method="simplesearch" sessionkey="1636907F-370Eq47EA-AD5E-64E7926C95D9" success="Y">
+  <errors>
+  </errors>
+  <request>
+    <auth password="pr38ns48" username="hackathon" />
+    <method action="simplesearch" sessionkey="1636907F-370Eq47EA-AD5E-64E7926C95D9" sitename="cruisedemo.traveltek.net" status="Live" type="cruise">
+      <searchdetail adults="2" children="0" enddate="2017-04-30" regionid="2" resultkey="default" sid="30115" startdate="2017-04-01" type="cruise" />
+    </method>
+  </request>
+  <results>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912273" copyandmedia="" cruisebalcony="0" cruiseid="131806" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-13" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="" nights="5" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_38.0" resultweight="0" returndate="2017-04-13" returnuk="N" roundtrip="Y" saildate="2017-04-08" sailnights="5" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-08" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="BR05W087" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="149" name="Key West" />
+        <port id="77" name="Cozumel" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="BR" id="147" imagecaption="Brilliance of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764716.gif" name="Brilliance of the Seas" niceurl="royal-caribbean-international/brilliance-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764716.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912259" copyandmedia="" cruisebalcony="0" cruiseid="131798" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-17" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="" nights="4" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_2.0" resultweight="0" returndate="2017-04-17" returnuk="N" roundtrip="Y" saildate="2017-04-13" sailnights="4" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-13" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="ID04W037" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="77" name="Cozumel" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ID" id="393" imagecaption="Independence of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246011652.jpg" name="Independence of the Seas" niceurl="royal-caribbean-international/independence-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246011652.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1090164" copyandmedia="" cruisebalcony="0" cruiseid="131835" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="" nights="7" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_60.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="7" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="JW07D177" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="656" name="St Croix" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="427" name="Roseau" />
+        <port id="4696" name="Bridgetown" />
+        <port id="689" name="St Georges, Bermuda" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="JW" id="145" imagecaption="Jewel of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246012505.jpg" name="Jewel of the Seas" niceurl="royal-caribbean-international/jewel-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246012505.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1132624" copyandmedia="" cruisebalcony="0" cruiseid="164176" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-06" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="" nights="5" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_29.0" resultweight="0" returndate="2017-04-06" returnuk="N" roundtrip="Y" saildate="2017-04-01" sailnights="5" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-01" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NE05S133" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="149" name="Key West" />
+        <port id="77" name="Cozumel" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NE" id="139" imagecaption="Empress of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1450948644.jpg" name="Empress of the Seas" niceurl="royal-caribbean-international/empress-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1450948644.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912289" copyandmedia="" cruisebalcony="0" cruiseid="131876" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-09" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="" nights="7" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_54.0" resultweight="0" returndate="2017-04-09" returnuk="N" roundtrip="Y" saildate="2017-04-02" sailnights="7" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-02" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="LB07W203" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="382" name="Galveston" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="77" name="Cozumel" />
+        <port id="382" name="Galveston" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="LB" id="369" imagecaption="Liberty of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246013375.jpg" name="Liberty of the Seas" niceurl="royal-caribbean-international/liberty-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246013375.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1155534" copyandmedia="" cruisebalcony="0" cruiseid="169985" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-29" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean " ncf="" nights="5" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_64.0" resultweight="0" returndate="2017-04-29" returnuk="N" roundtrip="Y" saildate="2017-04-24" sailnights="5" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-24" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NE05S136" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="77" name="Cozumel" />
+        <port id="149" name="Key West" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NE" id="139" imagecaption="Empress of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1450948644.jpg" name="Empress of the Seas" niceurl="royal-caribbean-international/empress-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1450948644.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="911976" copyandmedia="" cruisebalcony="0" cruiseid="131820" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-08" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="" nights="7" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_43.0" resultweight="0" returndate="2017-04-08" returnuk="N" roundtrip="Y" saildate="2017-04-01" sailnights="7" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-01" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="HM07E138" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="HM" id="3597" imagecaption="Harmony of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480601465.jpg" name="Harmony of the Seas" niceurl="royal-caribbean-international/harmony-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480601465.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912248" copyandmedia="" cruisebalcony="0" cruiseid="131882" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-09" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="" nights="8" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_18.0" resultweight="0" returndate="2017-04-09" returnuk="N" roundtrip="Y" saildate="2017-04-01" sailnights="8" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-01" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="FR08E046" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="277" name="San Juan" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="5264" name="Basseterre" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="FR" id="270" imagecaption="Freedom of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246009973.jpg" name="Freedom of the Seas" niceurl="royal-caribbean-international/freedom-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246009973.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912268" copyandmedia="" cruisebalcony="0" cruiseid="131924" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-15" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="U" hasflights="U" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="" nights="7" nofly="N" nofuelsupplement="" ownerid="system" price="0.00" priority="999" privatenotes="" ratecode="" resultiscruiseonly="N" resultkey="default" resultno="302_19.0" resultweight="0" returndate="2017-04-15" returnuk="N" roundtrip="Y" saildate="2017-04-08" sailnights="7" seadays="" searchno="0" senior="" soldout="0" special="no" specialsgroup="" startdate="2017-04-08" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AD07D170" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="5264" name="Basseterre" />
+        <port id="18" name="St John's, Antigua" />
+        <port id="368" name="Castries" />
+        <port id="4696" name="Bridgetown" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AD" id="140" imagecaption="Adventure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1331906942.jpg" name="Adventure of the Seas" niceurl="royal-caribbean-international/adventure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1331906942.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="955146" copyandmedia="" cruisebalcony="1550.40" cruiseid="139643" cruiseinside="830.40" cruiseoutside="1118.40" cruisesuite="1758.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Tampa" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="830.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_40.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="77" name="Cozumel" />
+        <port id="76" name="Costa Maya" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="5931" name="Harvest Caye, Belize" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="North America" regionid="8" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="JADE" id="410" imagecaption="Norwegian Jade" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314063.jpg" name="Norwegian Jade" niceurl="ncl/norwegian-jade" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314063.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="955147" copyandmedia="" cruisebalcony="1630.40" cruiseid="139643" cruiseinside="862.40" cruiseoutside="1118.40" cruisesuite="1838.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-30" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Tampa" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="862.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_41.0" resultweight="0" returndate="2017-04-30" returnuk="N" roundtrip="Y" saildate="2017-04-23" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-23" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="77" name="Cozumel" />
+        <port id="76" name="Costa Maya" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="5931" name="Harvest Caye, Belize" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="North America" regionid="8" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="JADE" id="410" imagecaption="Norwegian Jade" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314063.jpg" name="Norwegian Jade" niceurl="ncl/norwegian-jade" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314063.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1159207" copyandmedia="" cruisebalcony="1534.40" cruiseid="171012" cruiseinside="894.40" cruiseoutside="1198.40" cruisesuite="1678.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-20" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Miami" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="894.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_55.0" resultweight="0" returndate="2017-04-20" returnuk="N" roundtrip="Y" saildate="2017-04-13" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-13" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="219" name="Ocho Rios" />
+        <port id="383" name="George Town, Cayman Islands" />
+        <port id="77" name="Cozumel" />
+        <port id="149" name="Key West" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="PEARL" id="368" imagecaption="Norwegian Pearl" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314121.jpg" name="Norwegian Pearl" niceurl="ncl/norwegian-pearl" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314121.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="955145" copyandmedia="" cruisebalcony="1646.40" cruiseid="139643" cruiseinside="942.40" cruiseoutside="1166.40" cruisesuite="1838.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-16" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Tampa" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="942.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_65.0" resultweight="0" returndate="2017-04-16" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="77" name="Cozumel" />
+        <port id="76" name="Costa Maya" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="5931" name="Harvest Caye, Belize" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="North America" regionid="8" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="JADE" id="410" imagecaption="Norwegian Jade" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314063.jpg" name="Norwegian Jade" niceurl="ncl/norwegian-jade" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314063.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1180405" copyandmedia="" cruisebalcony="0" cruiseid="173440" cruiseinside="1005.92" cruiseoutside="1023.48" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-28" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="227.74" nights="4" nofly="N" nofuelsupplement="" noncommissionable="455.48" ownerid="system" price="1005.92" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_12.0" resultweight="0" returndate="2017-04-28" returnuk="N" roundtrip="Y" saildate="2017-04-24" sailnights="4" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-24" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NE04W055" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="77" name="Cozumel" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NE" id="139" imagecaption="Empress of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1450948644.jpg" name="Empress of the Seas" niceurl="royal-caribbean-international/empress-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1450948644.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912276" copyandmedia="" cruisebalcony="0" cruiseid="131793" cruiseinside="1078.31" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-17" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="298.82" nettexchangerate="0.590000000000" nights="4" nofly="N" nofuelsupplement="" noncommissionable="352.61" ownerid="system" price="1078.31" priority="999" privatenotes="" ratecode="B9964496" resultiscruiseonly="Y" resultkey="default" resultno="302_9.0" resultweight="0" returndate="2017-04-17" returnuk="N" roundtrip="Y" saildate="2017-04-13" sailnights="4" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-13" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="BR04W035" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="77" name="Cozumel" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="BR" id="147" imagecaption="Brilliance of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764716.gif" name="Brilliance of the Seas" niceurl="royal-caribbean-international/brilliance-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764716.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="935082" copyandmedia="" cruisebalcony="1436.15" cruiseid="110859" cruiseinside="1111.13" cruiseoutside="1273.64" cruisesuite="1761.18" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-06" engine="NCL" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean from Miami" ncf="460.98" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="543.96" ownerid="system" price="1111.13" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_30.0" resultweight="0" returndate="2017-05-06" returnuk="N" roundtrip="Y" saildate="2017-04-29" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-29" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="3737" name="St Thomas, US Virgin Isles" />
+        <port id="324" name="Tortola" />
+        <port id="202" name="Nassau" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ESCAPE" id="2716" imagecaption="Norwegian Escape" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314039.jpg" name="Norwegian Escape" niceurl="ncl/norwegian-escape" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314039.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1031093" copyandmedia="" cruisebalcony="1998.40" cruiseid="148448" cruiseinside="1118.40" cruiseoutside="1438.40" cruisesuite="2398.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-05" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Caribbean Adventure from New Orleans" ncf="300.00" nettexchangerate="0.800000000000" nights="12" nofly="N" nofuelsupplement="" noncommissionable="480.00" ownerid="system" price="1118.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_6.0" resultweight="0" returndate="2017-05-05" returnuk="N" roundtrip="N" saildate="2017-04-23" sailnights="12" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-23" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="206" name="New Orleans" />
+        <port id="77" name="Cozumel" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="3481" name="Cartagena, Colombia" />
+        <port id="277" name="San Juan" />
+        <port id="1370" name="Roadtown, Tortola" />
+        <port id="42" name="Boston, USA" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="DAWN" id="94" imagecaption="Norwegian Dawn" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314024.jpg" name="Norwegian Dawn" niceurl="ncl/norwegian-dawn" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314024.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1056089" copyandmedia="" cruisebalcony="1598.40" cruiseid="138460" cruiseinside="1118.40" cruiseoutside="1358.40" cruisesuite="1758.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-09" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Miami" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="1118.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_63.0" resultweight="0" returndate="2017-04-09" returnuk="N" roundtrip="Y" saildate="2017-04-02" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-02" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="5931" name="Harvest Caye, Belize" />
+        <port id="77" name="Cozumel" />
+        <port id="76" name="Costa Maya" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="Mexico" regionid="26" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="GETAWAY" id="2161" imagecaption="Norwegian Getaway" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480402247.jpg" name="Norwegian Getaway" niceurl="ncl/norwegian-getaway" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480402247.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1056091" copyandmedia="" cruisebalcony="1598.40" cruiseid="138460" cruiseinside="1118.40" cruiseoutside="1358.40" cruisesuite="1758.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Miami" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="1118.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_3.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="5931" name="Harvest Caye, Belize" />
+        <port id="77" name="Cozumel" />
+        <port id="76" name="Costa Maya" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="Mexico" regionid="26" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="GETAWAY" id="2161" imagecaption="Norwegian Getaway" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480402247.jpg" name="Norwegian Getaway" niceurl="ncl/norwegian-getaway" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480402247.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1056090" copyandmedia="" cruisebalcony="1678.40" cruiseid="138460" cruiseinside="1198.40" cruiseoutside="1438.40" cruisesuite="1838.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-16" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Miami" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="1198.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_28.0" resultweight="0" returndate="2017-04-16" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="5931" name="Harvest Caye, Belize" />
+        <port id="77" name="Cozumel" />
+        <port id="76" name="Costa Maya" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="Mexico" regionid="26" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="GETAWAY" id="2161" imagecaption="Norwegian Getaway" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480402247.jpg" name="Norwegian Getaway" niceurl="ncl/norwegian-getaway" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480402247.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1056092" copyandmedia="" cruisebalcony="1758.40" cruiseid="138460" cruiseinside="1198.40" cruiseoutside="1486.40" cruisesuite="1918.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-30" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from Miami" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="1198.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_57.0" resultweight="0" returndate="2017-04-30" returnuk="N" roundtrip="Y" saildate="2017-04-23" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-23" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="5931" name="Harvest Caye, Belize" />
+        <port id="77" name="Cozumel" />
+        <port id="76" name="Costa Maya" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="Mexico" regionid="26" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="GETAWAY" id="2161" imagecaption="Norwegian Getaway" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480402247.jpg" name="Norwegian Getaway" niceurl="ncl/norwegian-getaway" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480402247.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="881895" copyandmedia="" cruisebalcony="1616.42" cruiseid="114933" cruiseinside="1210.14" cruiseoutside="1291.40" cruisesuite="2185.21" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="NCL" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from New Orleans" ncf="476.03" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="561.72" ownerid="system" price="1210.14" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_70.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="206" name="New Orleans" />
+        <port id="77" name="Cozumel" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="76" name="Costa Maya" />
+        <port id="206" name="New Orleans" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="DAWN" id="94" imagecaption="Norwegian Dawn" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314024.jpg" name="Norwegian Dawn" niceurl="ncl/norwegian-dawn" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314024.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="935080" copyandmedia="" cruisebalcony="1436.15" cruiseid="110859" cruiseinside="1241.14" cruiseoutside="1354.89" cruisesuite="1842.43" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-22" engine="NCL" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean from Miami" ncf="460.98" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="543.96" ownerid="system" price="1241.14" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_23.0" resultweight="0" returndate="2017-04-22" returnuk="N" roundtrip="Y" saildate="2017-04-15" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-15" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="3737" name="St Thomas, US Virgin Isles" />
+        <port id="324" name="Tortola" />
+        <port id="202" name="Nassau" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ESCAPE" id="2716" imagecaption="Norwegian Escape" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314039.jpg" name="Norwegian Escape" niceurl="ncl/norwegian-escape" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314039.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="935081" copyandmedia="" cruisebalcony="1517.40" cruiseid="110859" cruiseinside="1273.64" cruiseoutside="1436.15" cruisesuite="1761.18" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-29" engine="NCL" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean from Miami" ncf="460.98" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="543.96" ownerid="system" price="1273.64" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_34.0" resultweight="0" returndate="2017-04-29" returnuk="N" roundtrip="Y" saildate="2017-04-22" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-22" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="3737" name="St Thomas, US Virgin Isles" />
+        <port id="324" name="Tortola" />
+        <port id="202" name="Nassau" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ESCAPE" id="2716" imagecaption="Norwegian Escape" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314039.jpg" name="Norwegian Escape" niceurl="ncl/norwegian-escape" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314039.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="935078" copyandmedia="" cruisebalcony="1758.40" cruiseid="110859" cruiseinside="1278.40" cruiseoutside="1598.40" cruisesuite="1918.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-08" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean from Miami" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="1278.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_5.0" resultweight="0" returndate="2017-04-08" returnuk="N" roundtrip="Y" saildate="2017-04-01" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-01" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="3737" name="St Thomas, US Virgin Isles" />
+        <port id="324" name="Tortola" />
+        <port id="202" name="Nassau" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ESCAPE" id="2716" imagecaption="Norwegian Escape" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314039.jpg" name="Norwegian Escape" niceurl="ncl/norwegian-escape" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314039.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1132713" copyandmedia="" cruisebalcony="0" cruiseid="164225" cruiseinside="1353.18" cruiseoutside="0" cruisesuite="2799.44" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-19" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Grand Cayman &amp; Key West " ncf="264.72" nights="5" nofly="N" nofuelsupplement="" noncommissionable="529.44" ownerid="system" price="1353.18" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_17.0" resultweight="0" returndate="2017-04-19" returnuk="N" roundtrip="Y" saildate="2017-04-14" sailnights="5" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-14" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NE05S122" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="383" name="George Town, Cayman Islands" />
+        <port id="149" name="Key West" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NE" id="139" imagecaption="Empress of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1450948644.jpg" name="Empress of the Seas" niceurl="royal-caribbean-international/empress-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1450948644.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1104437" copyandmedia="" cruisebalcony="1793.44" cruiseid="158789" cruiseinside="1353.44" cruiseoutside="1573.44" cruisesuite="2553.44" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-19" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean gateway" ncf="187.72" nights="3" nofly="N" nofuelsupplement="" noncommissionable="375.44" ownerid="system" price="1353.44" priority="999" privatenotes="" ratecode="C2757681" resultiscruiseonly="Y" resultkey="default" resultno="302_25.0" resultweight="0" returndate="2017-04-19" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="3" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="JW03D003" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="5264" name="Basseterre" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="JW" id="145" imagecaption="Jewel of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246012505.jpg" name="Jewel of the Seas" niceurl="royal-caribbean-international/jewel-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246012505.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="935079" copyandmedia="" cruisebalcony="1838.40" cruiseid="110859" cruiseinside="1358.40" cruiseoutside="1678.40" cruisesuite="1998.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-15" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean from Miami" ncf="200.00" nettexchangerate="0.800000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="320.00" ownerid="system" price="1358.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_36.0" resultweight="0" returndate="2017-04-15" returnuk="N" roundtrip="Y" saildate="2017-04-08" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-08" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="3737" name="St Thomas, US Virgin Isles" />
+        <port id="324" name="Tortola" />
+        <port id="202" name="Nassau" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ESCAPE" id="2716" imagecaption="Norwegian Escape" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314039.jpg" name="Norwegian Escape" niceurl="ncl/norwegian-escape" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314039.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912244" copyandmedia="" cruisebalcony="1646.17" cruiseid="131847" cruiseinside="1398.37" cruiseoutside="1563.57" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-30" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="395.06" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="466.17" ownerid="system" price="1398.37" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_24.0" resultweight="0" returndate="2017-04-30" returnuk="N" roundtrip="Y" saildate="2017-04-23" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-23" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AL07E136" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AL" id="481" imagecaption="Allure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764726.gif" name="Allure of the Seas" niceurl="royal-caribbean-international/allure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764726.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="881893" copyandmedia="" cruisebalcony="1778.94" cruiseid="114933" cruiseinside="1421.41" cruiseoutside="1535.16" cruisesuite="2591.50" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-16" engine="NCL" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from New Orleans" ncf="476.03" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="561.72" ownerid="system" price="1421.41" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_39.0" resultweight="0" returndate="2017-04-16" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="206" name="New Orleans" />
+        <port id="77" name="Cozumel" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="76" name="Costa Maya" />
+        <port id="206" name="New Orleans" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="DAWN" id="94" imagecaption="Norwegian Dawn" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314024.jpg" name="Norwegian Dawn" niceurl="ncl/norwegian-dawn" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314024.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912324" copyandmedia="" cruisebalcony="1477.81" cruiseid="131926" cruiseinside="0" cruiseoutside="0" cruisesuite="1816.47" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-14" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="320.38" nettexchangerate="0.590000000000" nights="5" nofly="N" nofuelsupplement="" noncommissionable="378.05" ownerid="system" price="1477.81" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_32.0" resultweight="0" returndate="2017-04-14" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="5" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NV05W093" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="202" name="Nassau" />
+        <port id="77" name="Cozumel" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NV" id="130" imagecaption="Navigator of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246014959.jpg" name="Navigator of the Seas" niceurl="royal-caribbean-international/navigator-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246014959.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912266" copyandmedia="" cruisebalcony="0" cruiseid="131923" cruiseinside="0" cruiseoutside="1492.23" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-22" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="335.60" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="396.01" ownerid="system" price="1492.23" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_22.0" resultweight="0" returndate="2017-04-22" returnuk="N" roundtrip="Y" saildate="2017-04-15" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-15" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AD07D171" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="5264" name="Basseterre" />
+        <port id="448" name="Willemstad, Curacao" />
+        <port id="21" name="Oranjestad, Aruba" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AD" id="140" imagecaption="Adventure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1331906942.jpg" name="Adventure of the Seas" niceurl="royal-caribbean-international/adventure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1331906942.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912249" copyandmedia="" cruisebalcony="2664.39" cruiseid="131882" cruiseinside="1589.41" cruiseoutside="1673.19" cruisesuite="3325.19" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="497.96" nettexchangerate="0.590000000000" nights="8" nofly="N" nofuelsupplement="" noncommissionable="587.59" ownerid="system" price="1589.41" priority="999" privatenotes="" ratecode="B9200993" resultiscruiseonly="Y" resultkey="default" resultno="302_7.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-15" sailnights="8" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-15" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="FR08E046" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="277" name="San Juan" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="5264" name="Basseterre" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="FR" id="270" imagecaption="Freedom of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246009973.jpg" name="Freedom of the Seas" niceurl="royal-caribbean-international/freedom-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246009973.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="931925" copyandmedia="" cruisebalcony="2718.40" cruiseid="136292" cruiseinside="1598.40" cruiseoutside="1678.40" cruisesuite="3038.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-29" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="New York, USA" ncf="250.00" nettexchangerate="0.800000000000" nights="11" nofly="N" nofuelsupplement="" noncommissionable="400.00" ownerid="system" price="1598.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_1.0" resultweight="0" returndate="2017-04-29" returnuk="N" roundtrip="Y" saildate="2017-04-18" sailnights="11" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-18" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="207" name="New York" />
+        <port id="277" name="San Juan" />
+        <port id="3737" name="St Thomas, US Virgin Isles" />
+        <port id="419" name="Philipsburg, Puerto Rico" />
+        <port id="306" name="St. Kitts" />
+        <port id="1370" name="Roadtown, Tortola" />
+        <port id="207" name="New York" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="GEM" id="371" imagecaption="Norwegian Gem" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314049.jpg" name="Norwegian Gem" niceurl="ncl/norwegian-gem" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314049.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="881891" copyandmedia="" cruisebalcony="1860.19" cruiseid="114933" cruiseinside="1616.42" cruiseoutside="1778.94" cruisesuite="2185.21" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-09" engine="NCL" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean from New Orleans" ncf="476.03" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="561.72" ownerid="system" price="1616.42" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_4.0" resultweight="0" returndate="2017-04-09" returnuk="N" roundtrip="Y" saildate="2017-04-02" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-02" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="206" name="New Orleans" />
+        <port id="77" name="Cozumel" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="76" name="Costa Maya" />
+        <port id="206" name="New Orleans" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="DAWN" id="94" imagecaption="Norwegian Dawn" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314024.jpg" name="Norwegian Dawn" niceurl="ncl/norwegian-dawn" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314024.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912269" copyandmedia="" cruisebalcony="2543.35" cruiseid="131924" cruiseinside="1684.31" cruiseoutside="2113.83" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-29" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="339.38" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="400.47" ownerid="system" price="1684.31" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_26.0" resultweight="0" returndate="2017-04-29" returnuk="N" roundtrip="Y" saildate="2017-04-22" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-22" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AD07D170" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="5264" name="Basseterre" />
+        <port id="18" name="St John's, Antigua" />
+        <port id="368" name="Castries" />
+        <port id="4696" name="Bridgetown" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AD" id="140" imagecaption="Adventure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1331906942.jpg" name="Adventure of the Seas" niceurl="royal-caribbean-international/adventure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1331906942.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912243" copyandmedia="" cruisebalcony="0" cruiseid="131847" cruiseinside="1833.55" cruiseoutside="2379.89" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-16" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="392.86" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="463.57" ownerid="system" price="1833.55" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_37.0" resultweight="0" returndate="2017-04-16" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AL07E136" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AL" id="481" imagecaption="Allure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764726.gif" name="Allure of the Seas" niceurl="royal-caribbean-international/allure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764726.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="931924" copyandmedia="" cruisebalcony="2558.40" cruiseid="136288" cruiseinside="1838.40" cruiseoutside="1918.40" cruisesuite="3198.40" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-18" engine="NCL" enginesource="live" grossexchangerate="0.800000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="250.00" nettexchangerate="0.800000000000" nights="10" nofly="N" nofuelsupplement="" noncommissionable="400.00" ownerid="system" price="1838.40" priority="999" privatenotes="" ratecode="EASYFARE" resultiscruiseonly="Y" resultkey="default" resultno="302_15.0" resultweight="0" returndate="2017-04-18" returnuk="N" roundtrip="Y" saildate="2017-04-08" sailnights="10" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-08" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="207" name="New York" />
+        <port id="277" name="San Juan" />
+        <port id="3737" name="St Thomas, US Virgin Isles" />
+        <port id="419" name="Philipsburg, Puerto Rico" />
+        <port id="324" name="Tortola" />
+        <port id="207" name="New York" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="GEM" id="371" imagecaption="Norwegian Gem" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314049.jpg" name="Norwegian Gem" niceurl="ncl/norwegian-gem" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314049.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="917741" copyandmedia="" cruisebalcony="0" cruiseid="131835" cruiseinside="1948.10" cruiseoutside="2340.10" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-09" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="347.05" nights="7" nofly="N" nofuelsupplement="" noncommissionable="694.10" ownerid="system" price="1948.10" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_52.0" resultweight="0" returndate="2017-04-09" returnuk="N" roundtrip="Y" saildate="2017-04-02" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-02" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="JW07D177" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="656" name="St Croix" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="427" name="Roseau" />
+        <port id="4696" name="Bridgetown" />
+        <port id="689" name="St Georges, Bermuda" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="JW" id="145" imagecaption="Jewel of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246012505.jpg" name="Jewel of the Seas" niceurl="royal-caribbean-international/jewel-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246012505.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="911961" copyandmedia="" cruisebalcony="1990.84" cruiseid="131816" cruiseinside="0" cruiseoutside="1990.84" cruisesuite="2833.36" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-29" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean Cruise" ncf="388.15" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="458.02" ownerid="system" price="1990.84" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_46.0" resultweight="0" returndate="2017-04-29" returnuk="N" roundtrip="Y" saildate="2017-04-22" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-22" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="HM07W206" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="3706" name="Falmouth,Jamaica" />
+        <port id="77" name="Cozumel" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="HM" id="3597" imagecaption="Harmony of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480601465.jpg" name="Harmony of the Seas" niceurl="royal-caribbean-international/harmony-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480601465.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="937117" copyandmedia="" cruisebalcony="3659.44" cruiseid="137755" cruiseinside="2061.44" cruiseoutside="2321.44" cruisesuite="4023.44" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-29" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="400.72" nights="7" nofly="N" nofuelsupplement="" noncommissionable="801.44" ownerid="system" price="2061.44" priority="999" privatenotes="" ratecode="B9969786" resultiscruiseonly="Y" resultkey="default" resultno="302_0.0" resultweight="0" returndate="2017-04-29" returnuk="N" roundtrip="Y" saildate="2017-04-22" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-22" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="RH07W208" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="2864" name="Puerto Costa Maya" />
+        <port id="77" name="Cozumel" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="RH" id="137" imagecaption="Rhapsody of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764707.gif" name="Rhapsody of the Seas" niceurl="royal-caribbean-international/rhapsody-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764707.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912254" copyandmedia="" cruisebalcony="2721.94" cruiseid="131810" cruiseinside="2161.94" cruiseoutside="2119.94" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-13" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="292.97" nights="5" nofly="N" nofuelsupplement="" noncommissionable="585.94" ownerid="system" price="2119.94" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_13.0" resultweight="0" returndate="2017-04-13" returnuk="N" roundtrip="Y" saildate="2017-04-08" sailnights="5" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-08" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="ID05W090" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="2864" name="Puerto Costa Maya" />
+        <port id="77" name="Cozumel" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ID" id="393" imagecaption="Independence of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246011652.jpg" name="Independence of the Seas" niceurl="royal-caribbean-international/independence-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246011652.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912304" copyandmedia="" cruisebalcony="2795.66" cruiseid="131881" cruiseinside="2179.66" cruiseoutside="2431.66" cruisesuite="4937.66" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-30" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="442.83" nights="7" nofly="N" nofuelsupplement="" noncommissionable="885.66" ownerid="system" price="2179.66" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_8.0" resultweight="0" returndate="2017-04-30" returnuk="N" roundtrip="Y" saildate="2017-04-23" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-23" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="OA07W192" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="238" name="Port Canaveral" />
+        <port id="406" name="Labadee" />
+        <port id="3706" name="Falmouth,Jamaica" />
+        <port id="77" name="Cozumel" />
+        <port id="238" name="Port Canaveral" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="OA" id="457" imagecaption="Oasis of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1284462192.jpg" name="Oasis of the Seas" niceurl="royal-caribbean-international/oasis-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1284462192.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="887468" copyandmedia="" cruisebalcony="3331.01" cruiseid="127860" cruiseinside="2534.70" cruiseoutside="2193.43" cruisesuite="11131.58" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-13" engine="NCL" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Roundtrip Panama Canal from Miami" ncf="827.30" nettexchangerate="0.590000000000" nights="10" nofly="N" nofuelsupplement="" noncommissionable="976.21" ownerid="system" price="2193.43" priority="999" privatenotes="" ratecode="PPSRVCHG" resultiscruiseonly="Y" resultkey="default" resultno="302_58.0" resultweight="0" returndate="2017-04-13" returnuk="N" roundtrip="Y" saildate="2017-04-03" sailnights="10" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-03" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="NCL" engine="NCL" id="17" logourl="http://static.traveltek.net/cruisepics/logos/ncl.gif" name="Norwegian Cruise Line" niceurl="ncl" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="493" name="Kralendijk,Bonaire" />
+        <port id="3481" name="Cartagena, Colombia" />
+        <port id="643" name="Panama Canal" />
+        <port id="2794" name="Colon, Panama" />
+        <port id="425" name="Puerto Limon" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="Central America" regionid="3" />
+        <region name="Panama Canal" regionid="31" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="PEARL" id="368" imagecaption="Norwegian Pearl" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480314121.jpg" name="Norwegian Pearl" niceurl="ncl/norwegian-pearl" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480314121.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="937116" copyandmedia="" cruisebalcony="3468.00" cruiseid="137755" cruiseinside="2194.00" cruiseoutside="2546.00" cruisesuite="5630.00" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-22" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="396.00" nights="7" nofly="N" nofuelsupplement="" noncommissionable="792.00" ownerid="system" price="2194.00" priority="999" privatenotes="" ratecode="B9969786" resultiscruiseonly="Y" resultkey="default" resultno="302_59.0" resultweight="0" returndate="2017-04-22" returnuk="N" roundtrip="Y" saildate="2017-04-15" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-15" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="RH07W208" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="2864" name="Puerto Costa Maya" />
+        <port id="77" name="Cozumel" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="RH" id="137" imagecaption="Rhapsody of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764707.gif" name="Rhapsody of the Seas" niceurl="royal-caribbean-international/rhapsody-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764707.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912279" copyandmedia="" cruisebalcony="2300.33" cruiseid="131809" cruiseinside="0" cruiseoutside="2284.99" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-08" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="373.43" nettexchangerate="0.590000000000" nights="5" nofly="N" nofuelsupplement="" noncommissionable="440.65" ownerid="system" price="2284.99" priority="999" privatenotes="" ratecode="B9964496" resultiscruiseonly="Y" resultkey="default" resultno="302_61.0" resultweight="0" returndate="2017-04-08" returnuk="N" roundtrip="Y" saildate="2017-04-03" sailnights="5" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-03" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="BR05W088" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="383" name="George Town, Cayman Islands" />
+        <port id="77" name="Cozumel" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="BR" id="147" imagecaption="Brilliance of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764716.gif" name="Brilliance of the Seas" niceurl="royal-caribbean-international/brilliance-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764716.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="917740" copyandmedia="" cruisebalcony="0" cruiseid="131808" cruiseinside="2349.46" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-08" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="302.73" nights="5" nofly="N" nofuelsupplement="" noncommissionable="605.46" ownerid="system" price="2349.46" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_14.0" resultweight="0" returndate="2017-04-08" returnuk="N" roundtrip="Y" saildate="2017-04-03" sailnights="5" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-03" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="ID05W091" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="502" name="Falmouth,United Kingdom" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="ID" id="393" imagecaption="Independence of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246011652.jpg" name="Independence of the Seas" niceurl="royal-caribbean-international/independence-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246011652.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912290" copyandmedia="" cruisebalcony="2378.54" cruiseid="131876" cruiseinside="0" cruiseoutside="0" cruisesuite="5704.54" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="363.27" nights="7" nofly="N" nofuelsupplement="" noncommissionable="726.54" ownerid="system" price="2378.54" priority="999" privatenotes="" ratecode="B9949672" resultiscruiseonly="Y" resultkey="default" resultno="302_11.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="LB07W203" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="382" name="Galveston" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="77" name="Cozumel" />
+        <port id="382" name="Galveston" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="LB" id="369" imagecaption="Liberty of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246013375.jpg" name="Liberty of the Seas" niceurl="royal-caribbean-international/liberty-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246013375.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="915426" copyandmedia="" cruisebalcony="3412.42" cruiseid="132442" cruiseinside="2418.42" cruiseoutside="2516.42" cruisesuite="3986.42" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-06" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="323.21" nights="7" nofly="N" nofuelsupplement="" noncommissionable="646.42" ownerid="system" price="2418.42" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_49.0" resultweight="0" returndate="2017-05-06" returnuk="N" roundtrip="Y" saildate="2017-04-29" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-29" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AD07D172" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="493" name="Kralendijk,Bonaire" />
+        <port id="21" name="Oranjestad, Aruba" />
+        <port id="448" name="Willemstad, Curacao" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AD" id="140" imagecaption="Adventure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1331906942.jpg" name="Adventure of the Seas" niceurl="royal-caribbean-international/adventure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1331906942.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912294" copyandmedia="" cruisebalcony="3214.56" cruiseid="131879" cruiseinside="2434.56" cruiseoutside="2734.56" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-16" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="373.28" nights="7" nofly="N" nofuelsupplement="" noncommissionable="746.56" ownerid="system" price="2434.56" priority="999" privatenotes="" ratecode="B9949672" resultiscruiseonly="Y" resultkey="default" resultno="302_47.0" resultweight="0" returndate="2017-04-16" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="LB07W204" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="382" name="Galveston" />
+        <port id="77" name="Cozumel" />
+        <port id="383" name="George Town, Cayman Islands" />
+        <port id="502" name="Falmouth,United Kingdom" />
+        <port id="382" name="Galveston" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="LB" id="369" imagecaption="Liberty of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246013375.jpg" name="Liberty of the Seas" niceurl="royal-caribbean-international/liberty-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246013375.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="911988" copyandmedia="" cruisebalcony="2502.58" cruiseid="131820" cruiseinside="2444.76" cruiseoutside="2585.18" cruisesuite="3354.54" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-22" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="392.83" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="463.54" ownerid="system" price="2444.76" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_68.0" resultweight="0" returndate="2017-04-22" returnuk="N" roundtrip="Y" saildate="2017-04-15" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-15" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="HM07E138" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="HM" id="3597" imagecaption="Harmony of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480601465.jpg" name="Harmony of the Seas" niceurl="royal-caribbean-international/harmony-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480601465.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912295" copyandmedia="" cruisebalcony="2645.82" cruiseid="131879" cruiseinside="2715.82" cruiseoutside="2491.82" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-30" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="373.91" nights="7" nofly="N" nofuelsupplement="" noncommissionable="747.82" ownerid="system" price="2491.82" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_45.0" resultweight="0" returndate="2017-04-30" returnuk="N" roundtrip="Y" saildate="2017-04-23" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-23" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="LB07W229" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="382" name="Galveston" />
+        <port id="77" name="Cozumel" />
+        <port id="383" name="George Town, Cayman Islands" />
+        <port id="502" name="Falmouth,United Kingdom" />
+        <port id="382" name="Galveston" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="LB" id="369" imagecaption="Liberty of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246013375.jpg" name="Liberty of the Seas" niceurl="royal-caribbean-international/liberty-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246013375.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="937114" copyandmedia="" cruisebalcony="4043.76" cruiseid="137755" cruiseinside="2545.76" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-08" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="393.88" nights="7" nofly="N" nofuelsupplement="" noncommissionable="787.76" ownerid="system" price="2545.76" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_16.0" resultweight="0" returndate="2017-04-08" returnuk="N" roundtrip="Y" saildate="2017-04-01" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-01" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="RH07W208" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="2864" name="Puerto Costa Maya" />
+        <port id="77" name="Cozumel" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="RH" id="137" imagecaption="Rhapsody of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764707.gif" name="Rhapsody of the Seas" niceurl="royal-caribbean-international/rhapsody-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764707.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912300" copyandmedia="" cruisebalcony="3393.78" cruiseid="131880" cruiseinside="2553.78" cruiseoutside="2959.78" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="447.89" nights="7" nofly="N" nofuelsupplement="" noncommissionable="895.78" ownerid="system" price="2553.78" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_35.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="OA07E132" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="238" name="Port Canaveral" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="238" name="Port Canaveral" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="OA" id="457" imagecaption="Oasis of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1284462192.jpg" name="Oasis of the Seas" niceurl="royal-caribbean-international/oasis-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1284462192.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="937115" copyandmedia="" cruisebalcony="0" cruiseid="137755" cruiseinside="2587.76" cruiseoutside="2965.76" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-15" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="393.88" nights="7" nofly="N" nofuelsupplement="" noncommissionable="787.76" ownerid="system" price="2587.76" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_62.0" resultweight="0" returndate="2017-04-15" returnuk="N" roundtrip="Y" saildate="2017-04-08" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-08" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="RH07W208" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="2864" name="Puerto Costa Maya" />
+        <port id="77" name="Cozumel" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="RH" id="137" imagecaption="Rhapsody of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764707.gif" name="Rhapsody of the Seas" niceurl="royal-caribbean-international/rhapsody-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764707.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1071302" copyandmedia="" cruisebalcony="3109.06" cruiseid="112076" cruiseinside="2675.06" cruiseoutside="2997.06" cruisesuite="4873.06" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-07" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="445.53" nights="7" nofly="N" nofuelsupplement="" noncommissionable="891.06" ownerid="system" price="2675.06" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_53.0" resultweight="0" returndate="2017-05-07" returnuk="N" roundtrip="Y" saildate="2017-04-30" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-30" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AL07W225" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="3706" name="Falmouth,Jamaica" />
+        <port id="77" name="Cozumel" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AL" id="481" imagecaption="Allure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764726.gif" name="Allure of the Seas" niceurl="royal-caribbean-international/allure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764726.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912301" copyandmedia="" cruisebalcony="3417.92" cruiseid="131880" cruiseinside="2685.92" cruiseoutside="3427.92" cruisesuite="5359.92" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-07" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="450.96" nights="7" nofly="N" nofuelsupplement="" noncommissionable="901.92" ownerid="system" price="2685.92" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_50.0" resultweight="0" returndate="2017-05-07" returnuk="N" roundtrip="Y" saildate="2017-04-30" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-30" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="OA07E132" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="238" name="Port Canaveral" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="238" name="Port Canaveral" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="OA" id="457" imagecaption="Oasis of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1284462192.jpg" name="Oasis of the Seas" niceurl="royal-caribbean-international/oasis-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1284462192.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912175" copyandmedia="" cruisebalcony="2698.18" cruiseid="131894" cruiseinside="0" cruiseoutside="0" cruisesuite="4184.98" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-17" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="458.59" nettexchangerate="0.590000000000" nights="10" nofly="N" nofuelsupplement="" noncommissionable="541.14" ownerid="system" price="2698.18" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_27.0" resultweight="0" returndate="2017-04-17" returnuk="N" roundtrip="Y" saildate="2017-04-07" sailnights="10" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-07" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="SR10D012" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="324" name="Tortola" />
+        <port id="5264" name="Basseterre" />
+        <port id="427" name="Roseau" />
+        <port id="18" name="St John's, Antigua" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="SR" id="135" imagecaption="Serenade of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246019123.jpg" name="Serenade of the Seas" niceurl="royal-caribbean-international/serenade-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246019123.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1071442" copyandmedia="" cruisebalcony="3403.64" cruiseid="151379" cruiseinside="2773.64" cruiseoutside="3263.64" cruisesuite="7099.64" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-06" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="445.82" nights="7" nofly="N" nofuelsupplement="" noncommissionable="891.64" ownerid="system" price="2773.64" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_51.0" resultweight="0" returndate="2017-05-06" returnuk="N" roundtrip="Y" saildate="2017-04-29" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-29" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="HM07E147" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="5264" name="Basseterre" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="HM" id="3597" imagecaption="Harmony of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480601465.jpg" name="Harmony of the Seas" niceurl="royal-caribbean-international/harmony-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480601465.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912299" copyandmedia="" cruisebalcony="0" cruiseid="131880" cruiseinside="2931.78" cruiseoutside="2973.78" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-09" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Eastern Caribbean" ncf="447.89" nights="7" nofly="N" nofuelsupplement="" noncommissionable="895.78" ownerid="system" price="2931.78" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_69.0" resultweight="0" returndate="2017-04-09" returnuk="N" roundtrip="Y" saildate="2017-04-02" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-02" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="OA07E132" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="238" name="Port Canaveral" />
+        <port id="202" name="Nassau" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="238" name="Port Canaveral" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="OA" id="457" imagecaption="Oasis of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1284462192.jpg" name="Oasis of the Seas" niceurl="royal-caribbean-international/oasis-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1284462192.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1132704" copyandmedia="" cruisebalcony="0" cruiseid="164222" cruiseinside="2973.46" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-24" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean " ncf="344.61" nights="5" nofly="N" nofuelsupplement="" noncommissionable="689.22" ownerid="system" price="2973.46" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_66.0" resultweight="0" returndate="2017-04-24" returnuk="N" roundtrip="Y" saildate="2017-04-19" sailnights="5" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-19" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NE05S135" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="2864" name="Puerto Costa Maya" />
+        <port id="814" name="Havana" />
+        <port id="149" name="Key West" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NE" id="139" imagecaption="Empress of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1450948644.jpg" name="Empress of the Seas" niceurl="royal-caribbean-international/empress-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1450948644.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="1154615" copyandmedia="" cruisebalcony="0" cruiseid="169666" cruiseinside="3051.04" cruiseoutside="0" cruisesuite="16785.04" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-07" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Havana &amp; Yucatan" ncf="436.52" nights="7" nofly="N" nofuelsupplement="" noncommissionable="873.04" ownerid="system" price="3051.04" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_33.0" resultweight="0" returndate="2017-05-07" returnuk="N" roundtrip="Y" saildate="2017-04-30" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-30" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NE07W255" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="317" name="Tampa" />
+        <port id="77" name="Cozumel" />
+        <port id="37" name="Belize" />
+        <port id="814" name="Havana" />
+        <port id="317" name="Tampa" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+        <region name="Mexico" regionid="26" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NE" id="139" imagecaption="Empress of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1450948644.jpg" name="Empress of the Seas" niceurl="royal-caribbean-international/empress-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1450948644.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912291" copyandmedia="" cruisebalcony="3103.40" cruiseid="131876" cruiseinside="0" cruiseoutside="0" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-05-07" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="364.70" nights="7" nofly="N" nofuelsupplement="" noncommissionable="729.40" ownerid="system" price="3103.40" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_10.0" resultweight="0" returndate="2017-05-07" returnuk="N" roundtrip="Y" saildate="2017-04-30" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-30" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="LB07W230" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="382" name="Galveston" />
+        <port id="1332" name="Roatan, Bay Islands" />
+        <port id="37" name="Belize" />
+        <port id="77" name="Cozumel" />
+        <port id="382" name="Galveston" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="LB" id="369" imagecaption="Liberty of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246013375.jpg" name="Liberty of the Seas" niceurl="royal-caribbean-international/liberty-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246013375.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912303" copyandmedia="" cruisebalcony="3621.66" cruiseid="131881" cruiseinside="3187.66" cruiseoutside="3243.66" cruisesuite="5539.66" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-16" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="442.83" nights="7" nofly="N" nofuelsupplement="" noncommissionable="885.66" ownerid="system" price="3187.66" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_48.0" resultweight="0" returndate="2017-04-16" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="OA07W192" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="238" name="Port Canaveral" />
+        <port id="406" name="Labadee" />
+        <port id="3706" name="Falmouth,Jamaica" />
+        <port id="77" name="Cozumel" />
+        <port id="238" name="Port Canaveral" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="OA" id="457" imagecaption="Oasis of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1284462192.jpg" name="Oasis of the Seas" niceurl="royal-caribbean-international/oasis-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1284462192.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912284" copyandmedia="" cruisebalcony="4589.26" cruiseid="131848" cruiseinside="3231.26" cruiseoutside="0" cruisesuite="5331.26" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="443.63" nights="7" nofly="N" nofuelsupplement="" noncommissionable="887.26" ownerid="system" price="3231.26" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_42.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-16" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-16" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AL07W195" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="3706" name="Falmouth,Jamaica" />
+        <port id="77" name="Cozumel" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AL" id="481" imagecaption="Allure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764726.gif" name="Allure of the Seas" niceurl="royal-caribbean-international/allure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764726.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="917742" copyandmedia="" cruisebalcony="0" cruiseid="131837" cruiseinside="3266.64" cruiseoutside="3266.64" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-16" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="355.32" nights="7" nofly="N" nofuelsupplement="" noncommissionable="710.64" ownerid="system" price="3266.64" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_56.0" resultweight="0" returndate="2017-04-16" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="JW07D178" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="277" name="San Juan" />
+        <port id="369" name="Charlotte Amalie" />
+        <port id="5264" name="Basseterre" />
+        <port id="18" name="St John's, Antigua" />
+        <port id="368" name="Castries" />
+        <port id="4696" name="Bridgetown" />
+        <port id="277" name="San Juan" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="JW" id="145" imagecaption="Jewel of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246012505.jpg" name="Jewel of the Seas" niceurl="royal-caribbean-international/jewel-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246012505.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912251" copyandmedia="" cruisebalcony="0" cruiseid="131843" cruiseinside="0" cruiseoutside="3695.06" cruisesuite="0" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-15" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="347.53" nights="6" nofly="N" nofuelsupplement="" noncommissionable="695.06" ownerid="system" price="3695.06" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_67.0" resultweight="0" returndate="2017-04-15" returnuk="N" roundtrip="Y" saildate="2017-04-09" sailnights="6" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-09" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="FR06W044" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="383" name="George Town, Cayman Islands" />
+        <port id="77" name="Cozumel" />
+        <port id="2864" name="Puerto Costa Maya" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="FR" id="270" imagecaption="Freedom of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246009973.jpg" name="Freedom of the Seas" niceurl="royal-caribbean-international/freedom-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246009973.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="911989" copyandmedia="" cruisebalcony="0" cruiseid="131816" cruiseinside="0" cruiseoutside="0" cruisesuite="4103.04" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-15" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean Cruise" ncf="388.15" nettexchangerate="0.590000000000" nights="7" nofly="N" nofuelsupplement="" noncommissionable="458.02" ownerid="system" price="4103.04" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_21.0" resultweight="0" returndate="2017-04-15" returnuk="N" roundtrip="Y" saildate="2017-04-08" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-08" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="HM07W206" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="3706" name="Falmouth,Jamaica" />
+        <port id="77" name="Cozumel" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="HM" id="3597" imagecaption="Harmony of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1480601465.jpg" name="Harmony of the Seas" niceurl="royal-caribbean-international/harmony-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1480601465.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912283" copyandmedia="" cruisebalcony="5303.26" cruiseid="131848" cruiseinside="4379.26" cruiseoutside="0" cruisesuite="5485.26" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-09" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Western Caribbean" ncf="443.63" nights="7" nofly="N" nofuelsupplement="" noncommissionable="887.26" ownerid="system" price="4379.26" priority="999" privatenotes="" ratecode="C2658074" resultiscruiseonly="Y" resultkey="default" resultno="302_20.0" resultweight="0" returndate="2017-04-09" returnuk="N" roundtrip="Y" saildate="2017-04-02" sailnights="7" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-02" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AL07W195" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="378" name="Fort Lauderdale" />
+        <port id="406" name="Labadee" />
+        <port id="3706" name="Falmouth,Jamaica" />
+        <port id="77" name="Cozumel" />
+        <port id="378" name="Fort Lauderdale" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AL" id="481" imagecaption="Allure of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1294764726.gif" name="Allure of the Seas" niceurl="royal-caribbean-international/allure-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1294764726.gif" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="919068" copyandmedia="" cruisebalcony="0" cruiseid="133565" cruiseinside="0" cruiseoutside="4793.54" cruisesuite="13485.54" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-29" engine="RoyalCaribbean" enginesource="live" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean " ncf="699.77" nights="12" nofly="N" nofuelsupplement="" noncommissionable="1399.54" ownerid="system" price="4793.54" priority="999" privatenotes="" ratecode="B9966521" resultiscruiseonly="Y" resultkey="default" resultno="302_31.0" resultweight="0" returndate="2017-04-29" returnuk="N" roundtrip="Y" saildate="2017-04-17" sailnights="12" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-17" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="AN12Y035" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="362" name="Cape Liberty, New Jersey" />
+        <port id="277" name="San Juan" />
+        <port id="4940" name="Philipsburg, St Maarten" />
+        <port id="18" name="St John's, Antigua" />
+        <port id="935" name="Fort de France" />
+        <port id="4696" name="Bridgetown" />
+        <port id="5264" name="Basseterre" />
+        <port id="362" name="Cape Liberty, New Jersey" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="AN" id="2708" imagecaption="Anthem of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1385468176.jpg" name="Anthem of the Seas" niceurl="royal-caribbean-international/anthem-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1385468176.jpg" />
+    </cruise>
+    <cruise airbalcony="0" airinside="0" airoutside="0" airport="" airportname="" airsuite="0" altvoyagecode="" codetocruiseid="912170" copyandmedia="" cruisebalcony="0" cruiseid="131883" cruiseinside="0" cruiseoutside="0" cruisesuite="5560.75" currency="GBP" departuk="N" description="" domesticdeparture="0" enddate="2017-04-23" engine="RoyalCaribbean" enginesource="live" grossexchangerate="0.590000000000" groupids="" hascruiseonly="Y" hasflights="N" hidden="N" iata="" localpricing="Y" marketid="7" name="Southern Caribbean" ncf="412.50" nettexchangerate="0.590000000000" nights="9" nofly="N" nofuelsupplement="" noncommissionable="486.75" ownerid="system" price="5560.75" priority="999" privatenotes="" ratecode="B8186051" resultiscruiseonly="Y" resultkey="default" resultno="302_44.0" resultweight="0" returndate="2017-04-23" returnuk="N" roundtrip="Y" saildate="2017-04-14" sailnights="9" seadays="" searchno="0" senior="0" soldout="0" special="no" specialsgroup="" startdate="2017-04-14" stoplive="0" systemgroup="" taxes="" type="cruise" voyagecode="NV09D015" whatsincluded="" zoneid="">
+      <csipackages>
+      </csipackages>
+      <grade></grade>
+      <line code="RCC" engine="RoyalCaribbean" id="22" logourl="http://static.traveltek.net/cruisepics/logos/rci.gif" name="Royal Caribbean International" niceurl="royal-caribbean-international" />
+      <ports>
+        <port id="410" name="Miami" />
+        <port id="406" name="Labadee" />
+        <port id="448" name="Willemstad, Curacao" />
+        <port id="21" name="Oranjestad, Aruba" />
+        <port id="493" name="Kralendijk,Bonaire" />
+        <port id="410" name="Miami" />
+      </ports>
+      <regions>
+        <region name="Caribbean" regionid="2" />
+      </regions>
+      <searchdetail></searchdetail>
+      <ship code="NV" id="130" imagecaption="Navigator of the Seas" imageurl="http://static.traveltek.net/cruisepics/local_shipimages/1246014959.jpg" name="Navigator of the Seas" niceurl="royal-caribbean-international/navigator-of-the-seas" rating="4" smallimageurl="http://static.traveltek.net/cruisepics/local_shipimages_small/1246014959.jpg" />
+    </cruise>
+  </results>
+</response>
