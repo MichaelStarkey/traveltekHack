@@ -25,10 +25,12 @@ def main():
 def server_static(type, filename):
     return static_file(filename, root='static/'+type)
 
-@route('/getCoords/')
+@route('/getCoords/' method="get")
 def get_coords():
     query = getQuery()
-    ll = [query['coords'][0]*(query['ws'][0]/360),q['coords'][1]*(query['ws'][0]/160)]
+    f.open("newnew.txt", "r")
+    ll = f.readline()
+
 
 
 # runs the full website
