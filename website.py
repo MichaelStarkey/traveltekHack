@@ -18,18 +18,18 @@ def getLL(sk, rn):
 
 @route('/')
 def main():
-    return template('maptest.tpl')
+    return template('header.tpl')
 
 #static file-path, allows for adding more scripts / styles later
 @route('/static/<type>/<filename>')
 def server_static(type, filename):
     return static_file(filename, root='static/'+type)
 
-@route('/getCoords/' method="get")
+@route('/getCoords/', method="get")
 def get_coords():
-    query = getQuery()
-    f.open("newnew.txt", "r")
+    f = open("newnew.txt", "r")
     ll = f.readline()
+    return ll
 
 
 
