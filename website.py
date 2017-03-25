@@ -7,4 +7,4 @@ def main():
     return template('<b>Hello world!</b>!')
 
 # runs the full website
-run(host='54.229.193.202', port=80, debug=True)
+run(host='0.0.0.0', port=80, debug=True)
