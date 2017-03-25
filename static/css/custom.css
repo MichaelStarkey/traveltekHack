@@ -1,0 +1,5 @@
+.map {
+	background-image: url('static/images/worldmap.jpg');
+	position: absolute;
+	height: 100%;
+}
