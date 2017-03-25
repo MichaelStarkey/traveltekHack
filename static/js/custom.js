@@ -1,10 +1,17 @@
-function getPos(e){
-	x=e.clientX;
-	y=e.clientY;
-	cursor="Your Mouse Position Is : " + x + " and " + y ;
-	document.getElementById("displayArea").innerHTML=cursor
-}
-    
-function stopTracking(){
-	document.getElementById("displayArea").innerHTML="";
-}
+$(function() {
+    $("#myimg").click(function(e) {
+        var o = {
+            left: e.pageX,
+            top: e.pageY
+        };
+        $("#test").show(2000).offset(o);
+    });
+});
+
+$(window).bind("resize", function(){
+    var w = $(window).width();
+    var h = $(window).height();
+
+    $("#mycanvas").css("width", w + "px");
+    $("#mycanvas").css("height", h + "px"); 
+});
