@@ -4,7 +4,13 @@ import sqlite3
 
 @route('/')
 def main():
-    return '<b>Hello world!</b>!'
+    return template('header.tpl')
 
 # runs the full website
-run(host='0.0.0.0', port=80, debug=True)
+run(host='localhost', port='8080', debug=True)
+
+
+#static file-path, allows for adding more scripts / styles later
+@route('/static/<type>/<filename>')
+def server_static(type, filename):
+    return static_file(filename, root='static/'+type)

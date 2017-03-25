@@ -18,11 +18,25 @@
     <!-- Custom Javascript -->
     <script src="/static/js/custom.js"></script>
 
+	<script>
+	function getPos(e){
+		x=e.clientX;
+		y=e.clientY;
+		cursor="Your Mouse Position Is : " + x + " and " + y ;
+		document.getElementById("displayArea").innerHTML=cursor
+	}
+    
+	function stopTracking(){
+		document.getElementById("displayArea").innerHTML="";
+	}
+	</script>
 </head>
 
 <body>
 
-	<div class="map" id="focusArea" onclick="getPos(event)" onmouseout="stopTracking()"><p>Mouse Over This Text And Get The Cursor Position!</p></div>
+	<div class="map" id="focusArea" onclick="getPos(event)" onmouseout="stopTracking()">
+		<img src="static/images/worldmap.jpg" alt="">
+	</div>
 
     	<p id="displayArea"></p>
     </div>
