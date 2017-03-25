@@ -6,11 +6,10 @@ import sqlite3
 def main():
     return template('header.tpl')
 
-# runs the full website
-run(host='localhost', port='8080', debug=True)
-
-
 #static file-path, allows for adding more scripts / styles later
 @route('/static/<type>/<filename>')
 def server_static(type, filename):
     return static_file(filename, root='static/'+type)
+
+# runs the full website
+run(host='localhost', port='8080', debug=True)
