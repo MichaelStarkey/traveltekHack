@@ -12,6 +12,8 @@
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="/static/css/custom.css">
 
+	
+
 	<!-- JQuery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
@@ -41,6 +43,9 @@
 
 <body>
 	<div class="bg" id="myimg" onclick="showCoords(event)" style="max-height: 100%; max-width: 100%;">
-		<span id="test">This is a test</span>
+	<span id="test">x</span>
 	<br />
-	</div>	
+		<canvas id="mycanvas">
+	
+		</canvas>
+	</div>

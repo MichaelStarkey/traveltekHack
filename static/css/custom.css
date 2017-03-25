@@ -21,6 +21,8 @@ div.pane;, p.flip {
 
 #test {
 	display: none;
-	color: white;
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
 }
 
