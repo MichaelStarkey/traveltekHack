@@ -1,0 +1,242 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<link href='Campsite.css' rel='stylesheet' type="text/css">
+
+<style>
+
+
+
+
+</style>
+
+<article>
+<head>
+    <meta charset="UTF-8">
+    <title>BeMi Camping</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <script src="Campsite.js"></script>
+
+
+</head>
+
+<div id="titlePanel">
+
+    <heading>
+        <h1>BeMi Camping</h1>
+        <p1>Welcome to BeMi Camping , fun in the wilderness starts here!</p1>
+        <br><br><br>
+    </heading>
+
+</div>
+
+
+<body>
+
+<br><br>
+
+<div class="img">
+
+    <a target="_blank" href="campsitePic1.jpg" alt="image_unavailable.jpg" >
+        <img src="campsitePic1.jpg" alt="image_unavailable.jpg" height="428" width="640">
+    </a>
+    <div class="desc">Riverside pitches available</div>
+
+</div>
+
+<div class="img">
+
+    <a target="_blank" href="campsitePic2.jpg" alt="image_unavailable.jpg" >
+        <img src="campsitePic2.jpg" alt="image_unavailable.jpg" height="641" width="981">
+    </a>
+    <div class="desc">Large caravan pitches with electric</div>
+
+</div>
+
+<div class="img">
+
+    <a target="_blank" href="campsitePic3.jpg" alt="image_unavailable.jpg" >
+        <img src="campsitePic3.jpg" alt="image_unavailable.jpg" height="449" width="600">
+    </a>
+    <div class="desc">Hiltop cabins available</div>
+
+</div>
+
+<div class="clear"></div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+<div id="makeBookingFlip"><h id="makeFlip">Click HERE to make a booking</h></div>
+<div id="makeBookingPanel">
+
+    Accommodation :
+    <select id="accommodationList">
+        <option>None</option>
+        <option value="Tent Pitch" >Tent Pitch - from £7 pn</option>
+        <option value="Campervan Pitch" >Campervan Pitch from £12 pn - </option>
+        <option value="Caravan Pitch" >Caravan Pitch - from £12 pn</option>
+        <option value="Static Caravan" >Static Caravan - from £25</option>
+        <option value="Cabin" >Cabin - from £35 pn</option>
+    </select>
+
+    <td style="color:yellow">Arrival Date : </td><td><input type="date" id="arrivalDate" /> </td>
+
+    <td style="color:yellow">Departure Date : </td><td><input type="date" id="departureDate" /> </td>
+
+
+    </br></br>
+
+    <td>Number Of Adults : <input type="range" id="numberOfAdults" min="0" max="9" value="0"></td>
+    <span id="adultValue">0</span>
+
+    <td>Number Of Children : <input type="range" id="numberOfChildren" min="0" max="9" value="0"></td>
+    <span id="childValue">0</span>
+
+    </br></br>
+
+    <td>Full Name:</td><td><input type="text" size="50" id="fullName" /></td>
+
+    </br></br>
+
+    <td>Address:</td><td><textarea rows="3" cols="51" maxlength="150" id="address"></textarea></td>
+
+    <br><br>
+
+    <td>POSTCODE:</td><td><input type="text" size="8" id="postcode" /></td>
+
+    <br><br>
+
+    <td>Telephone Number:</td><td><input type="text" size="11" id="telephoneNumber" /></td>
+
+    <td>Email Address:</td><td><input type="email" size="40" id="email" /></td>
+
+    <br><br>
+
+    <td>Total Number of nights = <type id="totalNights">0</type></td>
+
+    <td style="color:yellow">Total Cost of stay = £<type id="totalCost">0</type>.00</td>
+
+    <br><br><br><br>
+
+    <button id="makeBookingButton">Make a Booking</button>
+    <button id="clearBookingButton">Clear Form</button>
+
+
+</div>
+
+</br></br>
+
+<div id="retrieveBookingFlip"><h id="retrieveFlip">Click HERE to view your bookings</h></div>
+<div id="retrieveBookingPanel">
+
+    <td> Here are the list of active bookings, if you would like to edit or cancel a booking please check the appropriate box and press the edit or cancel button.</td>
+    <br><br>
+
+    <div  id = "bookingsTable"> </div>
+
+
+
+    </br></br>
+
+    <button id="cancelBookingButton">Cancel a Booking</button>
+    <button id="editBookingButton">Edit a Booking</button>
+
+
+</div>
+
+</br></br>
+
+<div id="localActivitiesFlip"><h id = "activityFlip">Click HERE to View Local Activities</h></div>
+<div id="localActivitiesPanel">
+
+        Local Activities :
+        <select id="activities">
+            <option>None</option>
+            <option value="Swimming" >Swimming</option>
+            <option value="Climbing" >Climbing</option>
+            <option value="Cycling" >Cycling</option>
+            <option value="Archery" >Archery</option>
+            <option value="Falconry" >Falconry</option>
+        </select>
+
+
+
+        </br></br>
+
+
+        <td id="activityTitle">Please select an activity from the list</td></br>
+
+
+
+    </br></br>
+
+
+    <div>
+        <div  id="map"></div>
+
+            <div class="img2">
+
+                <a target="_blank" href="tent.png" alt="image_unavailable.jpg" >
+                    <img id="logos" src="tent.png" alt="image_unavailable.jpg" height="100" width="100">
+                </a>
+
+            </div>
+
+            </br></br>
+
+            <t id="activityDescription" float="right">There is so much to do, were will your adventure begin.</t>
+            </br></br></br></br></br></br></br></br></br></br></br></br>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+</div>
+
+</br></br>
+
+<div class="clear"></div>
+
+<div id="commentFlip"><h id="commentsFlip">Click HERE to view and leave a comment</h></div>
+<div id="commentPanel">
+
+
+    <td><textarea rows="3" cols="51" maxlength="150" id="comments"></textarea></td>
+
+    </br></br>
+
+    <button id="commentButton">Leave a comment</button>
+
+    </br></br>
+
+    <div id="commentText"></div>
+
+    </br></br>
+
+
+
+</div>
+
+
+
+
+
+
+
+</body>
+</article>
+
+
+
+<video autoplay loop id ="video-background" muted>
+    <source src="camping.mp4" type="video/mp4">" <!--  /https://videos.pexels.com/videos/camping-at-a-forest-988 -->
+</video>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAo4KMJ69THKV48WUjV7xMHl4Ai-8axgv0"></script>
+</html>
